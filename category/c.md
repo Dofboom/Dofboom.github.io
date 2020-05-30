@@ -6,7 +6,7 @@ title: Publication
 <details open="">
 <summary><span style="font-size: 105%;"><strong>2019</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Multi-view Rank Pooling for 3D Object Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/Multi-view%20Rank%20Pooling%20for%203D%20Object%20Recognition.pdf">PDF</a>] [<a href="https://github.com/jiulongliu/SOFPI-DR-Net-DOT">Github</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Multi-view Rank Pooling for 3D Object Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/Multi-view%20Rank%20Pooling%20for%203D%20Object%20Recognition.pdf"  download>PDF</a>]</span><br />
 <span style="font-size: 95%;"> J. Liu, N. Chen, and H. Ji,<br />
  <em>Inverse Problems and Imaging,</em> 14(4),  Aug., 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong> <!-- [<a href="https://blog.nus.edu.sg/matjh/files/2020/03/CVPR2020_Denoising.pdf">PDF</a>]--></span><br />
