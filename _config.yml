@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            个人主页
+title:            Yuhui Quan
 tagline:          'A theme'
-description:      '全宇晖 <a href="http://hyde.getpoole.com" target="_blank">的个人主页</a> '
+description:      'paper'
 url:              https://dofboom.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -13,12 +13,13 @@ baseurl:          ''
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
+                  #<a href="http://hyde.getpoole.com" target="_blank"></a> 
 
 author:
   name:           'Q'
   url:            https://twitter.com/
 
-paginate:         5
+paginate:         6
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
