@@ -15,7 +15,7 @@ title: Publication
 <details open="">
 <summary><span style="font-size: 105%;"><strong>2019</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Deep Learning for Seeing ThroughWindowWith Raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deep%20Learning%20for%20Seeing%20ThroughWindowWith%20Raindrops.pdf" download="github1">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Deep Learning for Seeing ThroughWindowWith Raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deep%20Learning%20for%20Seeing%20ThroughWindowWith%20Raindrops.pdf" download="CSDN">PDF</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan; S. Deng; Y. Chen; H. Ji,<br />
  <em> IEEE International Conference on Computer Vision (ICCV),</em>Seoul, Oct. 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Multi-view Rank Pooling for 3D Object Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Multi-view%20Rank%20Pooling%20for%203D%20Object%20Recognition.pdf" download="github2">PDF</a>]</span><br />
