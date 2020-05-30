@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Download
 ---
 
 Another sample category page.
