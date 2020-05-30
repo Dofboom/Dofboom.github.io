@@ -10,6 +10,7 @@ title: What's Jekyll?
 - behind
 - can
 
+<details>
 <summary><strong>Current team members</strong></summary>
 <ul>
 <li><span style="font-size: 100%;">LI Ji, Postdoc research fellow, 2019 &#8212;</span></li>
@@ -23,3 +24,4 @@ title: What's Jekyll?
 <li><span style="font-size: 100%;">YANG Liuge, Ph.D. student, 2016 &#8212;</span></li>
 <li><span style="font-size: 100%;">YANG Ziyi, Ph.D. student, 2016 &#8212;</span></li>
 </ul>
+</details>
