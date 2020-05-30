@@ -4,7 +4,7 @@ title: People
 sidebar_link: true
 ---
 
-<details>
+<details open="">
 <summary><strong>Current team members</strong></summary>
 <ul>
 <li><span style="font-size: 100%;">Qin Xinran, Master degree candidate, 2020 &#8212;</span></li>
