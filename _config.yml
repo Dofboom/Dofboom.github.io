@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yuhui Quan
 tagline:          'A theme'
-description:      'paper'
+description:      'Homepage'
 url:              https://dofboom.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
