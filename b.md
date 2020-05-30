@@ -9,7 +9,7 @@ sidebar_link: true
 </p>
 -->
 
-<details>
+<details open="">
 <summary><strong>Past research projects </strong></summary>
 <ul>
 <li>2007.01&#8211;2019.12, PI, <strong>Research on Texture Analysis Based on Sparse Expression and Gap Degree Description</strong>, National Natural Science Youth Fund Project (61602184)</li>
