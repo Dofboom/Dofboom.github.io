@@ -5,7 +5,7 @@ title: Publication
 <details open="">
 <summary><span style="font-size: 105%;"><strong>2020</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Full-Reference Image Quality Metric for Blurry Images and Compressed Images using Hybrid Dictionary Learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf">PDF</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Full-Reference Image Quality Metric for Blurry Images and Compressed Images using Hybrid Dictionary Learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download>PDF</a>] </span><br />
 <span style="font-size: 95%;"> Z. Zhou; J. Li; Y. Xu; Y. Quan,<br />
 <em> Neural Computing&Applications,</em> Feb. 2020</span></li>
 </ul>
@@ -37,6 +37,19 @@ title: Publication
 <span style="font-size: 95%;"> Y. Huang; Y. Quan; T. Liu; H. Ji,<br />
 <em> Neural Computing&Applications,</em>31,6509-6520, Oct. 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf">PDF</a>]<br />
+<span style="font-size: 95%;"> Y. Quan; Y. Chen; R. Xu; H. Ji,<br />
+<em> Computer Vision and Image Understanding,</em> 187, Oct. 2019</span></span></li>
+<li><span style="font-size: 95%;"><strong>Deeply Exploiting Long-Term View Dependency for 3D Shape Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf">PDF</a>] [<a href="https://github.com/cs-rukawa/NLED_Code">Github</a>]</span><br />
+<span style="font-size: 95%;"> Y. Xu; C. Zheng; R. Xu; Y. Quan,<br />
+<em> IEEE Access,</em>  7,  111678-111691, Aug. 2019</span></li>
+</ul>
+</details>
+
+
+<details open="">
+<summary><span style="font-size: 105%;"><strong>2018</strong></span></summary>
+<ul style="background-color: #f2f2f2;">
+<li><span style="font-size: 95%;"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf">PDF</a>]<br />
 <span style="font-size: 95%;"> Y. Quan; Y. Chen; R. Xu; H. Ji,<br />
 <em> Computer Vision and Image Understanding,</em> 187, Oct. 2019</span></span></li>
 <li><span style="font-size: 95%;"><strong>Deeply Exploiting Long-Term View Dependency for 3D Shape Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf">PDF</a>] [<a href="https://github.com/cs-rukawa/NLED_Code">Github</a>]</span><br />
