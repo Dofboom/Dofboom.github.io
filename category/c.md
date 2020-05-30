@@ -8,7 +8,7 @@ title: Publication
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Multi-view Rank Pooling for 3D Object Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/Multi-view%20Rank%20Pooling%20for%203D%20Object%20Recognition.pdf">PDF</a>]</span><br />
 <span style="font-size: 95%;"> C. Zheng; Y. Xu; R. Xu; H. Chi; Y. Quan,<br />
- <em>VICP,</em> 14(4),  Aug., 2019</span></li>
+ <em> 2019 IEEE Visual Communications and Image Processing (VCIP),</em> 14(4),  Dec. 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong> <!-- [<a href="https://blog.nus.edu.sg/matjh/files/2020/03/CVPR2020_Denoising.pdf">PDF</a>]--></span><br />
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang, and H. Ji,<br />
 <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> Seattle, Jun. 2020</span></li>
