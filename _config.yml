@@ -19,7 +19,7 @@ author:
   name:           'Q'
   url:            https://twitter.com/
 
-paginate:         4
+paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
