@@ -39,7 +39,7 @@ title: Publication
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf">PDF</a>]<br />
 <span style="font-size: 95%;"> Y. Quan; Y. Chen; R. Xu; H. Ji,<br />
 <em> Computer Vision and Image Understanding,</em> 187, Oct. 2019</span></span></li>
-<li><span style="font-size: 95%;"><strong>Deeply Exploiting Long-Term View Dependency for 3D Shape Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf">PDF</a>] [<a href="https://github.com/cs-rukawa/NLED_Code">Github</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Deeply Exploiting Long-Term View Dependency for 3D Shape Recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/blob/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu; C. Zheng; R. Xu; Y. Quan,<br />
 <em> IEEE Access,</em>  7,  111678-111691, Aug. 2019</span></li>
 </ul>
