@@ -22,6 +22,6 @@ sidebar_link: true
 <details>
 <summary><strong>Former graduate students</strong></summary>
 <ul>
-<li><span style="font-size: 100%;">Liu Tao, M.Eng., 2019 &#8212;</span></li>
+<li><span style="font-size: 100%;">Liu Tao, M.Eng., 2019</span></li>
 </ul>
 </details>
