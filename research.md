@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: <font size=6>Resaerch</font>
 sidebar_link: true
 ---
