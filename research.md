@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resaerch
+title: <font size=6>Resaerch</font>
 sidebar_link: true
 ---
 <!--

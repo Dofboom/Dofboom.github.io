@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Professional Experience
+title: <font size=6>Professional Experience</font>
 ---
 
 <ul>
