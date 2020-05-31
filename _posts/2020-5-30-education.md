@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education
+title: <font size=6>Education</font>
 ---
 <ul>
 <li><span style="font-size: 100%;">B.Eng., Information Security, <a href="http://www.scut.edu.cn/cs">South China University of Technology</a>, China.</span></li>
