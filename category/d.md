@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Teaching
+title: <font size=6>Teaching</font>
 ---
 
 <li><strong>Current modules</strong>
