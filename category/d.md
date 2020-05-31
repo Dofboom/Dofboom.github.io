@@ -2,7 +2,7 @@
 layout: category
 title: <font size=6>Teaching</font>
 ---
-
+<details open="">
 <li><strong>Current modules</strong>
 <ul>
 <li><span style="font-size: 100%;">Numerical Methods.</span></li>
@@ -11,3 +11,4 @@ title: <font size=6>Teaching</font>
 <li><span style="font-size: 100%;">Deep Learning and Neural Networks.</span></li>
 </ul>
 </li>
+</details>
