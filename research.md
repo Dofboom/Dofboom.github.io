@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <small>Resaerch</small>
+title: <small><small>Resaerch</small></small>
 sidebar_link: true
 ---
 <!--

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <small>Research Interest</small>
+title: <small><small>Research Interest</small></small>
 ---
 
 <ul>
