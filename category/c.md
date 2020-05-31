@@ -49,7 +49,7 @@ title: Publication
 <details>
 <summary><span style="font-size: 105%;"><strong>2018</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2018/Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github"10>PDF</a>]<br />
+<li><span style="font-size: 95%;"><strong>Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2018/Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">PDF</a>]<br />
 <span style="font-size: 95%;"> Y. Du; G. Han; Y. Quan; Z. Yu; H. Wong; C. Chen; J. Zhang,<br />
 <em> IEEE Transactions on Cybernetics,</em> 49, 3898-3910, Nov. 2018</span></span></li>
 <li><span style="font-size: 95%;"><strong>Sparse coding and dictionary learning with class-speciﬁc group sparsity</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2018/Sparse%20coding%20and%20dictionary%20learning%20with%20class-speci%EF%AC%81c%20group%20sparsity.pdf" download="github11">PDF</a>] </span><br />
