@@ -1,6 +1,6 @@
 ---
 layout: category
-title: <font size=6>Publication</font>
+title: Publication
 ---
 <details open="">
 <summary><span style="font-size: 105%;"><strong>2020</strong></span></summary>
