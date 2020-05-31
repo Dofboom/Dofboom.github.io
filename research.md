@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Resaerch
+title: <font size=6>Resaerch</font>
 sidebar_link: true
 ---
 <!--
-<p class="message">
-  Carry on!
-</p>
--->
-
 <details open="">
 <summary><strong>Past research projects </strong></summary>
 <ul>
@@ -17,3 +12,4 @@ sidebar_link: true
 <li>2007.05&#8211;2019.04, <strong>Video super-resolution enhancement technology under haze and rain</strong>, Guangzhou Science and Technology Plan General Project (201707010147)</li>
 </ul>
 </details>
+-->
