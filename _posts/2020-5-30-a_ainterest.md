@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Research interest
+title: Research Interest
 ---
 
 <ul>
-<li><span style="font-size: 100%;">Image processing and Computational vision</span></li>
-<li><span style="font-size: 100%;">Sparse Representations</span></li>
-<li><span style="font-size: 100%;">Machine learning and Data science</span></li>
+<li><span style="font-size: 100%;">Image Recovering.</span></li>
+<li><span style="font-size: 100%;">Image Quality Assessment.</span></li>
+<li><span style="font-size: 100%;">Unsupervised Learning.</span></li>
 </ul>
