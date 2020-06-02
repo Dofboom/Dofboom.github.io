@@ -22,16 +22,16 @@ sidebar_link: true
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/pro.png" alt="" height="260" align="left" /><br />
 <ul >
-<li><span style="font-size: 100%;"><strong>● Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2017/Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">PDF</a>]</span><br />
-<span><em> IEEE International Conference on Computer Vision (ICCV), </em>Venice, Oct 2017</span></li>
+<span style="font-size: 100%;"><strong>● Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2017/Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">PDF</a>]</span><br />
+<span><em> IEEE International Conference on Computer Vision (ICCV), </em>Venice, Oct 2017</span>
 <br>
 <br>
-<li><span style="font-size: 100%;"><strong>● Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Deep%20Learning%20for%20Seeing%20ThroughWindowWith%20Raindrops.pdf" download="CSDN">PDF</a>]</span><br />
-<span><em> IEEE International Conference on Computer Vision (ICCV), </em>Seoul, Oct 2019</span></li>
+<span style="font-size: 100%;"><strong>● Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Deep%20Learning%20for%20Seeing%20ThroughWindowWith%20Raindrops.pdf" download="CSDN">PDF</a>]</span><br />
+<span><em> IEEE International Conference on Computer Vision (ICCV), </em>Seoul, Oct 2019</span>
 <br>
 <br>
-<li><span style="font-size: 100%;"><strong>● Removing reflection from a single image with ghosting effect-published</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect-published.pdf" download="github3">PDF</a>]</span><br />
-<span><em> IEEE Transactions on Computational Imaging, </em>6, 34-45, Feb 2019</span></li>
+<span style="font-size: 100%;"><strong>● Removing reflection from a single image with ghosting effect-published</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect-published.pdf" download="github3">PDF</a>]</span><br />
+<span><em> IEEE Transactions on Computational Imaging, </em>6, 34-45, Feb 2019</span>
 </ul>
 </th>
 </tr>
