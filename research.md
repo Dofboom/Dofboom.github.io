@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: Page
 title: Research
 sidebar_link: true
 ---
@@ -40,7 +40,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<details open="">
+<details>
 <summary><strong><small>Unsupervised Learning</small></strong></summary>
 <ul>
 <table>
@@ -67,7 +67,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<details open="">
+<details>
 <summary><strong><small>Image Quality Assessment</small></strong></summary>
 <ul>
 <table>
