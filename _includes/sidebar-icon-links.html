@@ -13,8 +13,8 @@
   {% endif %}
 
   <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+     class="icon" title="SCUT" aria-label="Subscribe"
+     href="https://www.scut.edu.cn/">
     {% include svg/feed.svg %}
   </a>
 
@@ -34,8 +34,8 @@
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
-       title="Tags" aria-label="Tags"
-       href="{{ tags_page.url | relative_url }}">
+       title="School" aria-label="Tags"
+       href="https://www.scut.edu.cn/cs/">
       {% include svg/tags.svg %}
     </a>
   {% endif %}
