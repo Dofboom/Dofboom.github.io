@@ -57,7 +57,7 @@ sidebar_link: true
 <tr>
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" height="130" align="left" /><br />
-<span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
+<span style="font-size: 100%;">&ensp; &nbsp;<strong><small>Fractal analysis for reduced reference image quality assessment</small></strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>]</span><br />
 <span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
 </span></th>
 </tr>
