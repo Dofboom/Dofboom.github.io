@@ -56,7 +56,7 @@ sidebar_link: true
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/ass.jpg" alt="" height="260" align="left" /><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/ass.png" alt="" height="260" align="left" /><br />
 <ul >
 <li><span style="font-size: 95%;"><strong>● Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
 <span><small><em>&ensp;&ensp;Signal Processing,</em> 110, 211-221, May 2015</small></span>
