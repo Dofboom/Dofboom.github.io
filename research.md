@@ -57,7 +57,7 @@ sidebar_link: true
 <span><small><em>&ensp;&ensp;IEEE Transactions on Patter Analysis and Machine Intelligence,</em> 38(7), 1356-1369, Jul 2016</small></span>
 <br>
 <br>
-<span style="font-size: 100%;"><strong>● Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">PDF</a>]</span><br />
+<span style="font-size: 100%;"><strong>● Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong><br>&ensp;&ensp;[<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">PDF</a>]</span><br />
 <span><small><em>&ensp;&ensp;IEEE Signal Processing Letters, </em>27, 116-120, Dec 2019</small></span>
 </ul>
 </th>
