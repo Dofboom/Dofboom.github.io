@@ -20,7 +20,7 @@ sidebar_link: true
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/com.jpg" alt="" width="130" align="left" /><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/com.png" alt="" height="130" align="left" /><br />
 <span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
 <span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
 <span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
@@ -38,7 +38,7 @@ sidebar_link: true
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/sup.jpg" alt="" width="130" align="left" /><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/unsup.jpg" alt="" height="130" align="left" /><br />
 <span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
 <span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
 <span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
@@ -56,8 +56,7 @@ sidebar_link: true
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" width="130" align="left" /><br />
-<span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" height="130" align="left" /><br />
 <span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
 <span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
 </span></th>
