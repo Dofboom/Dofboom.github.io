@@ -1,10 +1,10 @@
 ---
 layout: post
-title: <small><small>Research Interest</small></small>
+title: <small><small><small>Research Interest</small></small></small>
 ---
 
 <ul>
-<li><span style="font-size: 100%;">Computational Photography and Imaging</span></li>
-<li><span style="font-size: 100%;">Image Quality Assessment</span></li>
-<li><span style="font-size: 100%;">Unsupervised Learning</span></li>
+<li><span style="font-size: 100%;"><small>Computational Photography and Imaging</small></span></li>
+<li><span style="font-size: 100%;"><small>Image Quality Assessment</small></span></li>
+<li><span style="font-size: 100%;"><small>Unsupervised Learning</small></span></li>
 </ul>
