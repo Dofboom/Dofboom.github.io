@@ -40,7 +40,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<details>
+<details open="">
 <summary><strong><small>Unsupervised Learning</small></strong></summary>
 <ul>
 <table>
@@ -65,7 +65,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<details>
+<details open="">
 <summary><strong><small>Image Quality Assessment</small></strong></summary>
 <ul>
 <table>
