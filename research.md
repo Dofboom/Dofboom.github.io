@@ -49,7 +49,7 @@ sidebar_link: true
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/un.png" alt="" height="260" align="left" /><br />
 </ul>
-<span style="font-size: 100%;"><strong>● Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]<br />
+<span style="font-size: 100%;"><strong>● Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]</span><br />
 <span><small><em> IEEE International Conference on Computer Vision (ICCV),</em> 2015</small></span>
 <br>
 <br>
@@ -67,4 +67,29 @@ sidebar_link: true
 </ul>
 </details>
 
-
+<details open="">
+<summary><strong><small>Image Quality Assessment</small></strong></summary>
+<ul>
+<table>
+<tbody>
+<tr>
+<th>
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/ass.png" alt="" height="260" align="left" /><br />
+<ul >
+<span style="font-size: 100%;"><strong>● Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
+<span><small><em>&ensp;&ensp;Signal Processing,</em> 110, 211-221, May 2015</small></span>
+<br>
+<br>
+<span style="font-size: 100%;"><strong>● Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>] </span><br />
+<span><small><em>&ensp;&ensp;IEEE Transactions on Image Processing,</em> 24(7), 2089-2109, Jul 2015</small></span>
+<br>
+<br>
+<span style="font-size: 100%;"><strong>● Full-reference image quality metric for blurry images and compressed images using hybrid<br>&ensp;&ensp;dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
+<span><small><em>&ensp;&ensp;Neural Computing and Applications, </em>Jan 2020</small></span>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
+</ul>
+</details>
