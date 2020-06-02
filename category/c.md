@@ -3,14 +3,14 @@ layout: category
 title: Publication
 ---
 <details open="">
-<small>
 <summary><span style="font-size: 105%;"><strong>2020</strong></span></summary>
+<small>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Z. Zhou; J. Li; Y. Xu; Y. Quan,<br />
 <em> Neural Computing and Applications, </em>Jan 2020</span></li>
-</ul>
 </small>
+</ul>
 </details>
 
 
