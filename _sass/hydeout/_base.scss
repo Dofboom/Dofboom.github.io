@@ -50,8 +50,28 @@ a {
 
 
 
+table {
+  border: 1px solid $border-color;
+  border-collapse: collapse;
+  font-size: 85%;
+  margin-bottom: 1rem;
+  width: 100%;
+}
 
+td,
+th {
+  border: 1px solid $border-color;
+  padding: 0.25rem 0.5rem;
+}
 
+th {
+  text-align: left;
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: $gray-1;
+}
 
 button,
 input[type='text'],
