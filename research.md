@@ -40,32 +40,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<details open="">
-<summary><strong><small>Unsupervised Learning</small></strong></summary>
-<ul>
-<table>
-<tbody>
-<tr>
-<th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/un.png" alt="" height="260" align="left" /><br />
-<ul >
-<span style="font-size: 100%;"><strong>● Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]<br />
-<span><small><em> IEEE International Conference on Computer Vision (ICCV),</em> 2015</small></span>
-<br>
-<br>
-<span style="font-size: 100%;"><strong>● Dictionary learning for sparse coding: algorithms and convergence analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2016/Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">PDF</a>] </span><br />
-<span><small><em> IEEE Transactions on Patter Analysis and Machine Intelligence,</em> 38(7), 1356-1369, Jul 2016</small></span>
-<br>
-<br>
-<span style="font-size: 100%;"><strong>● Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">PDF</a>]</span><br />
-<span><small><em> IEEE Signal Processing Letters, </em>27, 116-120, Dec 2019<small></span></li>
-</ul>
-</th>
-</tr>
-</tbody>
-</table>
-</ul>
-</details>
+
 
 <details open="">
 <summary><strong><small>Image Quality Assessment</small></strong></summary>
