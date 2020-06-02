@@ -3,12 +3,14 @@ layout: category
 title: Publication
 ---
 <details open="">
+<small>
 <summary><span style="font-size: 105%;"><strong>2020</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Z. Zhou; J. Li; Y. Xu; Y. Quan,<br />
 <em> Neural Computing and Applications, </em>Jan 2020</span></li>
 </ul>
+</small>
 </details>
 
 
@@ -86,10 +88,10 @@ title: Publication
 <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> 2016</span></span></li>
 <li><span style="font-size: 95%;"><strong>Dictionary learning for sparse coding: algorithms and convergence analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2016/Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">PDF</a>] </span><br />
 <span style="font-size: 95%;"> C. Bao; H. Ji; Y. Quan; Z. Shen,<br />
-<em> IEEE Transactions on Patter Analysis and Machine Intelligence,</em>  38,  1356-1369, Jul 2016</span></li>
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence,</em> 38(7), 1356-1369, Jul 2016</span></li>
 <li><span style="font-size: 95%;"><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2016/Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf" download="github18">PDF</a>] </span><br />
 <span style="font-size: 95%;">Y. Quan; Y. Xu; Y. Sun; Y. Huang,<br />
-<em> Pattern Recognition,</em>  55,  247-260, Jul 2016</span></li>
+<em> Pattern Recognition,</em> 55, 247-260, Jul 2016</span></li>
 </ul>
 </details>
 
@@ -102,19 +104,19 @@ title: Publication
 <em> IEEE International Conference on Multimedia & Expo (ICME),</em> 2015</span></span></li>
 <li><span style="font-size: 95%;"><strong>Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Quan; Y. Huang; H. Ji,<br />
-<em>  IEEE International Conference on Computer Vision (ICCV),</em> 2015</span></span></li>
+<em> IEEE International Conference on Computer Vision (ICCV),</em> 2015</span></span></li>
 <li><span style="font-size: 95%;"><strong>Structured sparse coding for classification via reweighted l{1,2} minimization</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l%7B1%2C2%7D%20Minimization.pdf" download="github21">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Xu; Y. Sun; Y. Quan; Y. Luo,<br />
-<em>  The Chinese Conference on Computer Vision (CCCV),</em> 2015</span></span></li>
+<em> The Chinese Conference on Computer Vision (CCCV),</em> 2015</span></span></li>
 <li><span style="font-size: 95%;"><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu; D. Liu; Y. Quan; P. Callet,<br />
-<em> IEEE Transactions on Image Processing,</em>  24,  2089-2109, Jul 2015</span></li>
+<em> IEEE Transactions on Image Processing,</em> 24(7), 2089-2109, Jul 2015</span></li>
 <li><span style="font-size: 95%;"><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
 <span style="font-size: 95%;">D. Liu; Y. Xu; Y. Quan; Z. Yu; P. Callet,<br />
-<em> Signal Processing,</em>  110,  211-221, May 2015</span></li>
+<em> Signal Processing,</em> 110, 211-221, May 2015</span></li>
 <li><span style="font-size: 95%;"><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf" download="github24">PDF</a>] </span><br />
 <span style="font-size: 95%;">Y. Xu; Y. Quan; Z. Zhang; H. Ling; H. Ji,<br />
-<em> Pattern Recognition,</em> 48(10),  3239-3248, Oct 2015</span></li>
+<em> Pattern Recognition,</em> 48(10), 3239-3248, Oct 2015</span></li>
 <li><span style="font-size: 95%;"><strong>Data-driven multi-scale non-local wavelet frame construction and image recovery</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf" download="github25">PDF</a>] </span><br />
 <span style="font-size: 95%;">Y. Quan; H. Ji; Z. Shen,<br />
 <em> Journal of Scientific Computing,</em> 63(2), 307-329, May 2015</span></li>
