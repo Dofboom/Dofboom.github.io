@@ -1,6 +1,6 @@
 ---
-layout: page
-title: category
+layout: category
+title: Research
 sidebar_link: true
 ---
 <!--
