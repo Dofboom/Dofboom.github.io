@@ -57,12 +57,14 @@ sidebar_link: true
 <tr>
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" height="200" align="left" /><br />
-&ensp;<li><span style="font-size: 95%;"><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
+<ul style="background-color: #f2f2f2;">
+<li><span style="font-size: 95%;"><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
 </li>
-&ensp;<li><span style="font-size: 95%;"><strong>&ensp;&nbsp;Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>] </span><br />
 </li>
-&ensp;<li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
 </li>
+</ul>
 </th>
 </tr>
 </tbody>
