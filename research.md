@@ -14,13 +14,49 @@ sidebar_link: true
 </details>
 -->
 <details open="">
-<summary><strong>Past research projects </strong></summary>
+<summary><strong>Computational Photography and Imaging </strong></summary>
 <ul>
 <table>
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/2.jpg" alt="" width="130" align="left" /><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/com.jpg" alt="" width="130" align="left" /><br />
+<span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
+<span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
+<span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
+</span></th>
+</tr>
+</tbody>
+</table>
+</ul>
+</details>
+
+<details open="">
+<summary><strong>Unsupervised Learning</strong></summary>
+<ul>
+<table>
+<tbody>
+<tr>
+<th>
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/sup.jpg" alt="" width="130" align="left" /><br />
+<span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
+<span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
+<span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
+</span></th>
+</tr>
+</tbody>
+</table>
+</ul>
+</details>
+
+<details open="">
+<summary><strong>Image Quality Assessment</strong></summary>
+<ul>
+<table>
+<tbody>
+<tr>
+<th>
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" width="130" align="left" /><br />
 <span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong> (全宇晖） </span><br />
 <span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
 <span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
