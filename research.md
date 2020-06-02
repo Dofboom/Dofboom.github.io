@@ -64,7 +64,7 @@ sidebar_link: true
 <span style="font-size: 100%;"><strong>● Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">PDF</a>] </span><br />
 <span><small><em>&ensp;&ensp;IEEE Transactions on Image Processing,</em> 24(7), 2089-2109, Jul 2015</small></span>
 <br>
-<span style="font-size: 100%;"><strong>● Full-reference image quality metric for blurry images and compressed images using hybrid<br>  dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
+<span style="font-size: 100%;"><strong>● Full-reference image quality metric for blurry images and compressed images using hybrid<br>&ensp;&ensp;dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
 <span><small><em>&ensp;&ensp;Neural Computing and Applications, </em>Jan 2020</small></span>
 </ul>
 </th>
