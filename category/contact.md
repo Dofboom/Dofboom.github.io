@@ -1,3 +1,7 @@
+---
+layout: category
+title: Contact
+---
 <ul>
 <li><strong>Phone:</strong>  (65) 6516-8845</li>
 <li><strong>Email</strong>: matjh at nus.edu.sg</li>
