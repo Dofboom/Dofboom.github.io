@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <small><small><small>Professional Experience</small></small></small>
+title: Professional Experience
 ---
 
 <ul>
