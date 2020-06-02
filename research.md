@@ -48,7 +48,7 @@ sidebar_link: true
 <tr>
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/un.png" alt="" height="260" align="left" /><br />
-</ul>
+<ul>
 <span style="font-size: 100%;"><strong>● Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]</span><br />
 <span><small><em>&ensp;&ensp;IEEE International Conference on Computer Vision (ICCV),</em> 2015</small></span>
 <br>
