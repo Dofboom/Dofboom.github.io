@@ -15,8 +15,8 @@ title: Publication
 
 
 <details open="">
+<summary><span style="font-size: 105%;"><strong><small>2019</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2019</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Deep%20Learning%20for%20Seeing%20ThroughWindowWith%20Raindrops.pdf" download="CSDN">PDF</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan; S. Deng; Y. Chen; H. Ji,<br />
@@ -51,8 +51,8 @@ title: Publication
 
 
 <details>
+<summary><span style="font-size: 105%;"><strong><small>2018</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2018</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2018/Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">PDF</a>]<br />
 <span style="font-size: 95%;"> Y. Du; G. Han; Y. Quan; Z. Yu; H. Wong; C. Chen; J. Zhang,<br />
@@ -66,8 +66,8 @@ title: Publication
 
 
 <details>
+<summary><span style="font-size: 105%;"><strong><small>2017</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2017</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2017/Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">PDF</a>]<br />
 <span style="font-size: 95%;"> G. Xu; Y. Quan; H. Ji,<br />
@@ -84,8 +84,8 @@ title: Publication
 
 
 <details>
+<summary><span style="font-size: 105%;"><strong><small>2016</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2016</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2016/Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf" download="github15">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Quan; C. Bao; H. Ji,<br />
@@ -105,8 +105,8 @@ title: Publication
 
 
 <details>
+<summary><span style="font-size: 105%;"><strong><small>2015</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2015</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Characterizing dynamic textures with space-time lacunarity analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Characterizing%20dynamic%20textures%20with%20space-time%20lacunarity%20analysis.pdf" download="github19">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Sun; Y. Xu; Y. Quan,<br />
@@ -139,8 +139,8 @@ title: Publication
 
 
 <details>
+<summary><span style="font-size: 105%;"><strong><small>2014</small></strong></span></summary>
 <small>
-<summary><span style="font-size: 105%;"><strong>2014</strong></span></summary>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>A convergent incoherent dictionary learning algorithm for sparse coding</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2014/A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf" download="github27">PDF</a>]<br />
 <span style="font-size: 95%;">C. Bao; Y. Quan; H. Ji,<br />
@@ -164,7 +164,8 @@ title: Publication
 
 <details>
 <small>
-<summary><span style="font-size: 105%;"><strong>2013 and before</strong></span></summary>
+<summary><span style="font-size: 105%;"><strong><small>2013 and before</small></strong></span></summary>
+<small>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>An effective method of 1-d bar code image identification</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2013/An%20Effective%20Method%20of%201-D%20Bar%20Code%20Image%20Identification.pdf" download="github32">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Xu; Y. Yuan; H. Dong; Y. Quan,<br />
