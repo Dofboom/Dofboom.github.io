@@ -35,11 +35,11 @@ title: Publication
  <em> Pattern Recognition Letters, </em>128(1), 197-203, Dec 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Y. Huang; Y. Quan; T. Liu; H. Ji,<br />
-<em> Neural Computing&Applications, </em>31(10), 6509-6520, Oct 2019</span></li>
+<em> Neural Computing and Applications, </em>31(10), 6509-6520, Oct 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">PDF</a>]<br />
 <span style="font-size: 95%;"> Y. Quan; Y. Chen; R. Xu; H. Ji,<br />
 <em> Computer Vision and Image Understanding, </em>187, Oct 2019</span></span></li>
-<li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3d shape recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">PDF</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu; C. Zheng; R. Xu; Y. Quan,<br />
 <em> IEEE Access, </em>7, 111678-111691, Aug 2019</span></li>
 </ul>
