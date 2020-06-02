@@ -163,7 +163,6 @@ title: Publication
 
 
 <details>
-<small>
 <summary><span style="font-size: 105%;"><strong><small>2013 and before</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
