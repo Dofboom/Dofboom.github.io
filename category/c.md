@@ -166,7 +166,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2013 and before</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>An effective method of 1-d bar code image identification</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2013/An%20Effective%20Method%20of%201-D%20Bar%20Code%20Image%20Identification.pdf" download="github32">PDF</a>]<br />
+<li><span style="font-size: 95%;"><strong>An effective method of 1-D bar code image identification</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2013/An%20Effective%20Method%20of%201-D%20Bar%20Code%20Image%20Identification.pdf" download="github32">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Xu; Y. Yuan; H. Dong; Y. Quan,<br />
 <em> IEEE International Conference on Computational Science and Engineering (CSE),</em> 2013</span></span></li>
 <li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2012/Contour-Based%20Recognition.pdf" download="github33">PDF</a>]<br />
