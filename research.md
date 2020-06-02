@@ -14,7 +14,7 @@ sidebar_link: true
 </details>
 -->
 <details open="">
-<summary><strong>Computational Photography and Imaging </strong></summary>
+<summary><strong><small>Computational Photography and Imaging</small> </strong></summary>
 <ul>
 <table>
 <tbody>
@@ -50,7 +50,7 @@ sidebar_link: true
 </details>
 
 <details open="">
-<summary><strong>Image Quality Assessment</strong></summary>
+<summary><strong><small>Image Quality Assessment</small></strong></summary>
 <ul>
 <table>
 <tbody>
