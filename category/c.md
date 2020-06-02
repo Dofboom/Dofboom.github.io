@@ -110,7 +110,7 @@ title: Publication
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Characterizing dynamic textures with space-time lacunarity analysis</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Characterizing%20dynamic%20textures%20with%20space-time%20lacunarity%20analysis.pdf" download="github19">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Sun; Y. Xu; Y. Quan,<br />
-<em> IEEE International Conference on Multimedia & Expo (ICME),</em> 2015</span></span></li>
+<em> IEEE International Conference on Multimedia and Expo (ICME),</em> 2015</span></span></li>
 <li><span style="font-size: 95%;"><strong>Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]<br />
 <span style="font-size: 95%;">Y. Quan; Y. Huang; H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV),</em> 2015</span></span></li>
