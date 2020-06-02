@@ -56,7 +56,7 @@ sidebar_link: true
 <tbody>
 <tr>
 <th>
-<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" height="300" align="left" /><br />
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/collage.jpg" alt="" height="200" align="left" /><br />
 <li><span style="font-size: 95%;"><strong>&ensp;&nbsp;Directional regularity for visual quality estimation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">PDF</a>] </span><br />
 <span style="font-size: 95%;">D. Liu; Y. Xu; Y. Quan; Z. Yu; P. Callet,<br />
 <em> Signal Processing,</em> 110, 211-221, May 2015</span></li>
@@ -66,7 +66,7 @@ sidebar_link: true
 <li><span style="font-size: 95%;"><strong>&ensp;&nbsp;Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">PDF</a>] </span><br />
 <span style="font-size: 95%;"> Z. Zhou; J. Li; Y. Xu; Y. Quan,<br />
 <em> Neural Computing and Applications, </em>Jan 2020</span></li>
-</span></th>
+</th>
 </tr>
 </tbody>
 </table>
