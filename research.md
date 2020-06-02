@@ -48,7 +48,6 @@ sidebar_link: true
 <tr>
 <th>
 <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/un.png" alt="" height="260" align="left" /><br />
-<ul >
 <span style="font-size: 100%;"><strong>● Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2015/Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">PDF</a>]<br />
 <span><small><em> IEEE International Conference on Computer Vision (ICCV),</em> 2015</small></span>
 <br>
@@ -59,7 +58,6 @@ sidebar_link: true
 <br>
 <span style="font-size: 100%;"><strong>● Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">PDF</a>]</span><br />
 <span><em> IEEE Signal Processing Letters, </em>27, 116-120, Dec 2019</span>
-</ul>
 </th>
 </tr>
 </tbody>
