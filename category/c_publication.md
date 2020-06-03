@@ -6,7 +6,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>Upcoming</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Self2self with dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Self2self with dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang, H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 
@@ -26,7 +26,7 @@ title: Publication
 <span style="font-size: 95%;">R. Xu, Y. xu, Y. Quan, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>] [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>]</span><br />
 <span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Quan, R. Xu, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
@@ -42,13 +42,13 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2020</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Full-Reference%20Image%20Quality%20Metric%20for%20Blurry%20Images%20and%20Compressed%20Images%20using%20Hybrid%20Dictionary%20Learning.pdf" download="github">manuscript</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf" download="github">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Xu, Y. Quan,<br />
 <em> Neural Computing and Applications, </em>Jan 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Removing reflection from a single image with ghosting effect-published</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect-published.pdf" download="github3">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Removing reflection from a single image with ghosting effect-published</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan, Y. Xu, R. Xu, H. Ji,<br />
  <em> IEEE Transactions on Computational Imaging, </em>6(1), 34-45, Dec 2020</span></li>
- <li><span style="font-size: 95%;"><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>]</span><br />
+ <li><span style="font-size: 95%;"><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, H. Teng, T. Liu, Y. Huang,<br />
  <em> IEEE Signal Processing Letters, </em>27(1), 116-120, Dec 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>]</span><br />
@@ -63,7 +63,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2019</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf" download="CSDN">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf" download="github1">manuscript</a>][<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops%20(SUPP).pdf" download="sup2">supp</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, S. Deng, Y. Chen, H. Ji,<br />
  <em> IEEE International Conference on Computer Vision (ICCV), </em>Seoul, Oct 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Multi-view rank pooling for 3D object recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Multi-view%20Rank%20Pooling%20for%203D%20Object%20Recognition.pdf" download="github2">manuscript</a>]</span><br />
@@ -108,7 +108,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2017</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>]<br />
+<li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>] [<a href="=https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches%20(SUPP).pdf" download="sup1">supp</a>]<br />
 <span style="font-size: 95%;"> G. Xu, Y. Quan, H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV), </em>Venice, Oct 2017</span></span></li>
 <li><span style="font-size: 95%;"><strong>Image-based action recognition using hint-enhanced deep neural network</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-nc-Image-based%20action%20recognition%20using%20hint-enhanced%20deep%20neural%20network.pdf" download="github13">manuscript</a>] </span><br />
