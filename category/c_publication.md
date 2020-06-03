@@ -108,7 +108,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2017</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>][<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches%20(SUPP).pdf" download="supp">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>][<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches%20(SUPP).pdf" download="supp">supp</a>]</span><br />
 <span style="font-size: 95%;"> G. Xu, Y. Quan, H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV), </em>Venice, Oct 2017</span></li>
 <li><span style="font-size: 95%;"><strong>Image-based action recognition using hint-enhanced deep neural network</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/17-nc-Image-based%20action%20recognition%20using%20hint-enhanced%20deep%20neural%20network.pdf" download="github13">manuscript</a>] </span><br />
