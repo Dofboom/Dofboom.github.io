@@ -22,7 +22,7 @@ title: Publication
 <span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu, H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Factorized Tensor Dictionary Learning for Visual Tensor Data Completion</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]</span><br />
 <span style="font-size: 95%;">R. Xu, Y. xu, Y. Quan, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
