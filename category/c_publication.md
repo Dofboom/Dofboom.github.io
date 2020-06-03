@@ -50,10 +50,10 @@ title: Publication
  <em> IEEE Transactions on Computational Imaging, </em>6, 34-45, Feb 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, H. Teng, T. Liu, Y. Huang,<br />
- <em> IEEE Signal Processing Letters, </em>27, 116-120, Dec 2020</span></li>
+ <em> IEEE Signal Processing Letters, </em>27, 116-120, Feb 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> X. Yang, Y. Xu, Y. Quan, H. Ji,<br />
- <em> IEEE Signal Processing Letters, </em>29, 5038-5049, March 2020</span></li>
+ <em> IEEE Signal Processing Letters, </em>29(1), 5038-5049, Dec 2020</span></li>
 </ul>
 </small>
 </details>
@@ -205,9 +205,6 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2013 and before</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>An effective method of 1-D bar code image identification</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2013/An%20Effective%20Method%20of%201-D%20Bar%20Code%20Image%20Identification.pdf" download="github32">manuscript</a>]<br />
-<span style="font-size: 95%;">Y. Xu, Y. Yuan, H. Dong, Y. Quan,<br />
-<em> IEEE International Conference on Computational Science and Engineering (CSE),</em> 2013</span></span></li>
 <li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>]<br />
 <span style="font-size: 95%;">Y. Xu; Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki, D. Dementhon,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> 2012</span></span></li>
