@@ -6,31 +6,31 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>Upcoming</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Self2Self With dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Self2Self With dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang, H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Nan, Y. Quan, and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> R. Xu, Y. xu, Y. Quan, H. Ji<br />
 <em>SIAM Journal on Imaging Sciences, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu, H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Factorized Tensor Dictionary Learning for Visual Tensor Data Completion</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Factorized Tensor Dictionary Learning for Visual Tensor Data Completion</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]</span><br />
 <span style="font-size: 95%;">R. Xu, Y. xu, Y. Quan, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Quan, R. Xu, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 
-<li><span style="font-size: 95%;"><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">PDF</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, H. Teng, Y. Chen, H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 </ul>
