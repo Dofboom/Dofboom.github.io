@@ -47,10 +47,10 @@ title: Publication
 <em> Neural Computing and Applications, </em>Jan 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Removing reflection from a single image with ghosting effect-published</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect-published.pdf" download="github3">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan, Y. Xu, R. Xu, H. Ji,<br />
- <em> IEEE Transactions on Computational Imaging, </em>6, 34-45, Feb 2020</span></li>
+ <em> IEEE Transactions on Computational Imaging, </em>6(1), 34-45, Dec 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/papers/2019/Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, H. Teng, T. Liu, Y. Huang,<br />
- <em> IEEE Signal Processing Letters, </em>27, 116-120, Feb 2020</span></li>
+ <em> IEEE Signal Processing Letters, </em>27(1), 116-120, Dec 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> X. Yang, Y. Xu, Y. Quan, H. Ji,<br />
  <em> IEEE Signal Processing Letters, </em>29(1), 5038-5049, Dec 2020</span></li>
