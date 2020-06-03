@@ -1,4 +1,7 @@
-<p>
-  {{ site.time | date: '%Y' }}.
-  <a href="http://www.scholat.com/csyhquan.cn">Go to Chinese interface.</a>
-</p>
+
+<a id="tags-link"
+       class="icon{% if page.url == '/tags' %} active{% endif %}"
+       title="School" aria-label="Tags"
+       href="http://www2.scut.edu.cn/cs/">
+      {% include svg/tags.svg %}
+    </a>
