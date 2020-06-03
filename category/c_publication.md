@@ -6,7 +6,7 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>Upcoming</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Self2Self With dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>]</span><br />
+<li><span style="font-size: 95%;"><strong>Self2self with dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang, H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 
