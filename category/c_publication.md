@@ -98,7 +98,7 @@ title: Publication
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Sparse coding and dictionary learning with class-speciﬁc group sparsity</strong> [<a href="https://github.com/Dofboom/Dofboom.github.io/raw/master/manuscript/18-nca-Sparse%20coding%20and%20dictionary%20learning%20with%20class-speci%EF%AC%81c%20group%20sparsity.pdf" download="github11">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Sun, Y. Quan, J. Fu,<br />
-<em> Neural Computing&Applications,</em> 30(4), 1265-1275, Aug 2018</span></li>
+<em> Neural Computing and Applications,</em> 30(4), 1265-1275, Aug 2018</span></li>
 </ul>
 </small>
 </details>
