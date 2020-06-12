@@ -180,7 +180,7 @@ sidebar_link: true
 <summary><strong><small>Cartoon-Texture Decomposition via Discriminative Patch Recurrence </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-Texture Image Decomposition using Orientation Characteristics in </a></strong>, SIAM Journal on Imaging Sciences, 2020.</li>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-Texture Image Decomposition using Orientation Characteristics in  patch recurrence</a></strong>, SIAM Journal on Imaging Sciences, 2020.</li>
 </ul>
 </small>
 </details>
