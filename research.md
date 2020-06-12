@@ -18,7 +18,7 @@ sidebar_link: true
 </small>
 </details>
 
-<details>
+<details open="">
 <summary><strong><small>Image Denoising via Sequential Ensemble Learning</small></strong></summary>
 <small>
 <ul>
