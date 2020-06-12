@@ -10,10 +10,10 @@ sidebar_link: true
 -->
 
 <details open="">
-<summary><strong>Past research projects </strong></summary>
+<summary><strong><small>Self2Self With Dropout Learning Self-Supervised Denoising From Single Image </small></strong></summary>
+<small>
 <ul>
-<li>2007.01&#8211;2019.12, <strong>Research on Texture Analysis Based on Sparse Expression and Gap Degree Description</strong>, National Natural Science Youth Fund Project (61602184)</li>
-<li>2007.05&#8211;2019.05, <strong>Research on Key Technologies of Discriminant Sparse Coding</strong>, Guangdong Provincial Natural Science Foundation Free Project (2017A030313376)</li>
-<li>2007.05&#8211;2019.04, <strong>Video super-resolution enhancement technology under haze and rain</strong>, Guangzhou Science and Technology Plan General Project (201707010147)</li>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020</li>
 </ul>
+</small>
 </details>
