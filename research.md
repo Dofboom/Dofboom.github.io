@@ -49,7 +49,7 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im3.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br /><br />
+  <br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
