@@ -22,7 +22,7 @@ sidebar_link: true
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im1.png" alt="" height="130" align="left" />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im2.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br />
+  <br /><br /><br /><br />
   <ul>
    <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
   </ul>
@@ -49,7 +49,7 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im3.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br />
+  <br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
@@ -69,7 +69,7 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im4.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</a></strong>, CVPR, 2020.</li>
 </ul>
@@ -89,12 +89,12 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im5.png" alt="" height="260" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im6.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, TCI, 2020.</li>
 </ul>
@@ -115,7 +115,7 @@ sidebar_link: true
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im7.png" alt="" height="130" align="left" />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im8.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_2_4_3.png" alt="" height="260" align="left" />
   <br /><br />
   <br /><br /><br /><br /><br />
