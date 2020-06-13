@@ -256,7 +256,7 @@ sidebar_link: true
   <br /><br />
   <br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, Journal of Scientific Computing, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, Journal of Scientific Computing, 2015.</li>
 </ul>
  </th>
 </tr>
@@ -268,7 +268,7 @@ sidebar_link: true
 <summary><strong><small>Cartoon-Texture Decomposition via Discriminative Patch Recurrence </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-Texture Image Decomposition using Orientation Characteristics in  patch recurrence</a></strong>, SIAM Journal on Imaging Sciences, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-Texture Image Decomposition using Orientation Characteristics in  patch recurrence</a></strong>, SIAM Journal on Imaging Sciences, 2020.</li>
 </ul>
 </small>
 </details>
@@ -277,7 +277,7 @@ sidebar_link: true
 <summary><strong><small>Removing Ghosting Reflections from Single Image </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing Reflection From a Single Image With Ghosting Effect</a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing Reflection From a Single Image With Ghosting Effect</a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
 </ul>
 </small>
 </details>
@@ -292,7 +292,7 @@ sidebar_link: true
 <summary><strong><small>Estimating Defocus Blur via Rank of Local Patches </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating Defocus Blur via Rank of Local Patches </a></strong>, ICCV, 2017.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating Defocus Blur via Rank of Local Patches </a></strong>, ICCV, 2017.</li>
 </ul>
 </small>
 </details>
@@ -311,12 +311,12 @@ sidebar_link: true
 <summary><strong><small>Fractal-Based Statistics for Static / Dynamic Texture Recognition </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, Computer Vision and Image Understanding, 2017.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, Pattern Recognition, 2015.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">CHARACTERIZING DYNAMIC TEXTURES WITH SPACE-TIME LACUNARITY ANALYSIS </a></strong>, ICME, 2015.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity Analysis on Image Patterns for Texture Classification </a></strong>, CVPR, 2014.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, Image and Vision Computing, 2014.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic Texture Classification Using Dynamic Fractal Analysis </a></strong>, ICCV, 2011.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, Computer Vision and Image Understanding, 2017.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, Pattern Recognition, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">CHARACTERIZING DYNAMIC TEXTURES WITH SPACE-TIME LACUNARITY ANALYSIS </a></strong>, ICME, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity Analysis on Image Patterns for Texture Classification </a></strong>, CVPR, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, Image and Vision Computing, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic Texture Classification Using Dynamic Fractal Analysis </a></strong>, ICCV, 2011.</li>
 </ul>
 </small>
 </details>
@@ -325,7 +325,7 @@ sidebar_link: true
 <summary><strong><small>Interactive Texture Segmentation via Weakly-Supervised Sparse Coding with Geometric Prior </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">Weakly-Supervised Sparse Coding with Geometric Prior for Interactive Texture Segmentation </a></strong>, IEEE Signal Processing Letters, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">Weakly-Supervised Sparse Coding with Geometric Prior for Interactive Texture Segmentation </a></strong>, IEEE Signal Processing Letters, 2020.</li>
 </ul>
 </small>
 </details>
@@ -334,7 +334,7 @@ sidebar_link: true
 <summary><strong><small>Image Quality Assessment: Sparse Coding Approach </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, Neural Computing and Applications, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, Neural Computing and Applications, 2020.</li>
 </ul>
 </small>
 </details>
@@ -343,9 +343,9 @@ sidebar_link: true
 <summary><strong><small>Spatial-Distribution-Aware Image Quality Assessment </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal Analysis for Reduced Reference Image Quality Assessment </a></strong>, IEEE Transactions on Image Processing, 2015.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf">Directional regularity for visual quality estimation </a></strong>, Signal Processing, 2015.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf">Reduced Reference Image Quality Assessment Using Regularity of Phase Congruency </a></strong>, Signal Processing: Image Communication, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal Analysis for Reduced Reference Image Quality Assessment </a></strong>, IEEE Transactions on Image Processing, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf">Directional regularity for visual quality estimation </a></strong>, Signal Processing, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf">Reduced Reference Image Quality Assessment Using Regularity of Phase Congruency </a></strong>, Signal Processing: Image Communication, 2014.</li>
 </ul>
 </small>
 </details>
@@ -354,7 +354,7 @@ sidebar_link: true
 <summary><strong><small>Maximum-Torque Contour Descriptor </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-Based Recognition </a></strong>, CVPR, 2012.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-Based Recognition </a></strong>, CVPR, 2012.</li>
 </ul>
 </small>
 </details>
@@ -363,7 +363,7 @@ sidebar_link: true
 <summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, IEEE Transactions on Neural Networks and Learning Systems, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, IEEE Transactions on Neural Networks and Learning Systems, 2020.</li>
 </ul>
 </small>
 </details>
