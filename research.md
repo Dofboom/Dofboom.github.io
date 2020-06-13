@@ -36,17 +36,13 @@ sidebar_link: true
 </ul>
 </details>
 
+<!--2-->
 <details open="">
-<summary><strong><small>Unsupervised Deep Learning for Image Recovery</small></strong></summary>
-<small>
+<summary><strong>Supervised Learning for Computational Photography and Imaging</strong></summary>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
-</ul>
-</small>
-</details>
 
 <details open="">
-<summary><strong><small>Supervised Learning for Computational Photography and Imaging</small></strong></summary>
+<summary><strong><small>Sequential Ensemble Learning for Image Denoising</small></strong></summary>
 <small>
 <ul>
 <li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
@@ -62,6 +58,30 @@ sidebar_link: true
 </ul>
 </small>
 </details>
+
+<details>
+<summary><strong><small>Collaborative Deep Learning for Super-resolving Blurry Text Images</small></strong></summary>
+<small>
+<ul>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
+</ul>
+</small>
+</details>
+
+<details>
+<summary><strong><small>Shape Attention for Image Raindrop Removal </small></strong></summary>
+<small>
+<ul>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
+</ul>
+</small>
+</details>
+
+</ul>
+</details>
+
+
+
 
 <details open="">
 <summary><strong><small>Sparse Coding for Classification: Improving Discrimination</small></strong></summary>
@@ -106,23 +126,11 @@ sidebar_link: true
 </small>
 </details>
 
-<details>
-<summary><strong><small>Super-resolving Blurry Text Images </small></strong></summary>
-<small>
-<ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
-</ul>
-</small>
-</details>
 
-<details>
-<summary><strong><small>Shape Attention for Image Raindrop Removal </small></strong></summary>
-<small>
-<ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
-</ul>
-</small>
-</details>
+
+
+
+
 
 <details>
 <summary><strong><small>Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery </small></strong></summary>
