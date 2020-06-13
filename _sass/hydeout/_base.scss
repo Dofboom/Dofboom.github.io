@@ -48,13 +48,19 @@ a {
   }
 }
 
-
+img {
+  border-radius: 5px;
+  display: block;
+  height: auto; // prevent max-width from squishing images with defined height
+  margin: 0 0 1rem;
+  max-width: 100%;
+}
 
 table {
   border: 1px solid $border-color;
   border-collapse: collapse;
   font-size: 85%;
-  margin-bottom: 1rem;
+  //margin-bottom: 1rem;
   width: 100%;
 }
 
@@ -68,10 +74,7 @@ th {
   text-align: left;
 }
 
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: $gray-1;
-}
+
 
 button,
 input[type='text'],
