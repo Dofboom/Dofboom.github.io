@@ -151,10 +151,10 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="200" align="center" />
   <br /><br />
-  <br /><br /><br /><br />
+  <br /><br />
 <ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, IEEE Signal Processing Letters, 2019.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">Supervised dictionary learning with multiple classifier integration</a></strong>, Pattern Recognition, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, SPL, 2019.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">Supervised dictionary learning with multiple classifier integration</a></strong>, PR, 2016.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">Equiangular Kernel Dictionary Learning with Applications to Dynamic Texture Analysis</a></strong>, CVPR, 2016.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf">Sparse Coding for Classification via Discrimination Ensemble</a></strong>, CVPR, 2016</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf">A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding</a></strong>, ECCV, 2014.</li>
