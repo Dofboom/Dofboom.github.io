@@ -17,21 +17,6 @@ sidebar_link: true
 
 <table>
 <tbody>
-<tr>
- <th>
-  <ul>
-   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im1.png" alt="" width="130" align="left" />
-  </ul>
- </th>
-</tr>
-
-<tr>
- <th>
-  <ul>
-   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
-  </ul>
- </th>
-</tr>
 
 </tbody>
 </table>
