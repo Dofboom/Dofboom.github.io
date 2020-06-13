@@ -8,6 +8,29 @@ sidebar_link: true
   Carry on!
 </p>
 -->
+<details open="">
+<summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
+<small>
+<ul>
+<li>
+<table>
+<tbody>
+<tr>
+<th>
+<img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/2.jpg" alt="" width="130" align="left" /><br />
+<span style="font-size: 120%;"><strong> &ensp; Yuhui Quan</strong></span><br />
+<span style="font-size: 100%;">&ensp; &nbsp;Associate Professor <a href="http://www2.scut.edu.cn/cs/"><br>&ensp;&nbsp;&nbsp;School of Computer Science and Engineering</a></span><br />
+<span style="font-size: 100%;"> <a href="https://www.scut.edu.cn">&ensp;&nbsp; South China University of Technology</a><br />
+</span></th>
+</tr>
+</tbody>
+</table>
+</li>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
+</ul>
+</small>
+</details>
+</details>
 
 <details open="">
 <summary><strong><small>Unsupervised Deep Learning for Image Recovery</small></strong></summary>
@@ -22,7 +45,7 @@ sidebar_link: true
 <summary><strong><small>Supervised Learning for Computational Photography and Imaging</small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, IEEE Signal Processing Letters, 2020.</li>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
 </small>
 </details>
