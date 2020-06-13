@@ -172,8 +172,8 @@ sidebar_link: true
 <tr>
  <th>
 <ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized Tensor Dictionary Learning for Visual Tensor Data Completion </a></strong>, IEEE Transactions on Multimedia, 2020.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf">Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion </a></strong>, IEEE Transactions on Cybernetics, 2019.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized Tensor Dictionary Learning for Visual Tensor Data Completion </a></strong>, TMM, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf">Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion </a></strong>, TCYB, 2019.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning </a></strong>, ICCV, 2015.</li>
 </ul>
  </th>
@@ -209,7 +209,7 @@ sidebar_link: true
 <tr>
  <th>
 <ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, Neural Computing and Applications, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, NCA, 2020.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image Quality Assessment Using Kernel Sparse Coding</a></strong>, TMM, 2020.</li>
 </ul>
  </th>
