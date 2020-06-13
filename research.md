@@ -11,10 +11,11 @@ sidebar_link: true
 <details open="">
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
 <ul>
+
 <details open="">
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
 <small>
-
+<!--1-1-->
 <table>
 <tbody>
 <tr>
@@ -40,39 +41,84 @@ sidebar_link: true
 <details open="">
 <summary><strong>Supervised Learning for Computational Photography and Imaging</strong></summary>
 <ul>
-
+<!--2-1-->
 <details open="">
 <summary><strong><small>Sequential Ensemble Learning for Image Denoising</small></strong></summary>
 <small>
+
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im3.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
+
 </small>
 </details>
 
+<!--2-2-->
 <details open="">
 <summary><strong><small>Variational-EM-based Deep Learning for Noise-blind Image Deblurring</small></strong></summary>
 <small>
+
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im4.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</a></strong>, CVPR, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</a></strong>, CVPR, 2020.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
 </small>
 </details>
 
+<!--2-3-->
 <details>
 <summary><strong><small>Collaborative Deep Learning for Super-resolving Blurry Text Images</small></strong></summary>
 <small>
+
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im5.png" alt="" height="260" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
+  <br /><br />
+  <br /><br /><br /><br /><br />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im6.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
 </small>
 </details>
 
+<!--2-4-->
 <details>
 <summary><strong><small>Shape Attention for Image Raindrop Removal </small></strong></summary>
 <small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
 </ul>
 </small>
 </details>
@@ -82,7 +128,7 @@ sidebar_link: true
 
 
 
-
+<!--3-->
 <details open="">
 <summary><strong><small>Sparse Coding for Classification: Improving Discrimination</small></strong></summary>
 <small>
