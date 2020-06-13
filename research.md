@@ -14,7 +14,6 @@ sidebar_link: true
 
 <details open="">
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
-<small>
 <!--1-1-->
 <table>
 <tbody>
@@ -32,7 +31,6 @@ sidebar_link: true
 
 </tbody>
 </table>
-</small>
 </details>
 </ul>
 </details>
@@ -44,7 +42,6 @@ sidebar_link: true
 <!--2-1-->
 <details open="">
 <summary><strong><small>Sequential Ensemble Learning for Image Denoising</small></strong></summary>
-<small>
 
 <table>
 <tbody>
@@ -60,14 +57,11 @@ sidebar_link: true
 </tr>
 </tbody>
 </table>
-
-</small>
 </details>
 
 <!--2-2-->
 <details open="">
 <summary><strong><small>Variational-EM-based Deep Learning for Noise-blind Image Deblurring</small></strong></summary>
-<small>
 
 <table>
 <tbody>
@@ -83,13 +77,11 @@ sidebar_link: true
 </tr>
 </tbody>
 </table>
-</small>
 </details>
 
 <!--2-3-->
 <details>
 <summary><strong><small>Collaborative Deep Learning for Super-resolving Blurry Text Images</small></strong></summary>
-<small>
 
 <table>
 <tbody>
@@ -110,17 +102,33 @@ sidebar_link: true
 </tr>
 </tbody>
 </table>
-</small>
 </details>
 
 <!--2-4-->
 <details>
 <summary><strong><small>Shape Attention for Image Raindrop Removal </small></strong></summary>
-<small>
+
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im7.png" alt="" height="130" align="left" />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im8.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_2_4_3.png" alt="" height="260" align="left" />
+  <br /><br />
+  <br /><br /><br /><br /><br />
+    <br /><br />
+  <br /><br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
 </ul>
-</small>
+ </th>
+</tr>
+</tbody>
+</table>
+
 </details>
 
 </ul>
