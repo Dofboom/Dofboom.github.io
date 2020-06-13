@@ -10,7 +10,7 @@ sidebar_link: true
 -->
 <details open="">
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
-<ul>
+
 <details open="">
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
 <small>
@@ -19,7 +19,7 @@ sidebar_link: true
 </ul>
 </small>
 </details>
-</ul>
+
 </details>
 
 <details open="">
