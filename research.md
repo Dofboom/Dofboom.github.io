@@ -149,15 +149,15 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="130" align="left" />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="200" align="center" />
   <br /><br />
   <br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, IEEE Signal Processing Letters, 2019.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">Supervised dictionary learning with multiple classifier integration</a></strong>, Pattern Recognition, 2016.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">Equiangular Kernel Dictionary Learning with Applications to Dynamic Texture Analysis</a></strong>, CVPR, 2016.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf">Sparse Coding for Classification via Discrimination Ensemble</a></strong>, CVPR, 2016</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf">A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding</a></strong>, ECCV, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, IEEE Signal Processing Letters, 2019.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">Supervised dictionary learning with multiple classifier integration</a></strong>, Pattern Recognition, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">Equiangular Kernel Dictionary Learning with Applications to Dynamic Texture Analysis</a></strong>, CVPR, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf">Sparse Coding for Classification via Discrimination Ensemble</a></strong>, CVPR, 2016</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf">A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding</a></strong>, ECCV, 2014.</li>
 </ul>
  </th>
 </tr>
@@ -167,11 +167,19 @@ sidebar_link: true
 <!--3-2-->
 <details>
 <summary><strong><small>Sparse Coding and Dictionary Learning on Tensors </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized Tensor Dictionary Learning for Visual Tensor Data Completion </a></strong>, IEEE Transactions on Multimedia, 2020.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf">Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion </a></strong>, IEEE Transactions on Cybernetics, 2019.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning </a></strong>, ICCV, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized Tensor Dictionary Learning for Visual Tensor Data Completion </a></strong>, IEEE Transactions on Multimedia, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf">Exploiting Global Low-rank Structure and Local Sparsity Nature for Tensor Completion </a></strong>, IEEE Transactions on Cybernetics, 2019.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning </a></strong>, ICCV, 2015.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
 </details>
 <!--3-3-->
 <details>
@@ -184,9 +192,9 @@ sidebar_link: true
   <br /><br />
   <br /><br /><br /><br />
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">Weakly-Supervised Sparse Coding with Geometric Prior for Interactive Texture Segmentation </a></strong>, SPL, 2020.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">Equiangular Kernel Dictionary Learning with Applications to Dynamic Texture Analysis</a></strong>, CVPR, 2016.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning </a></strong>, ICCV, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">Weakly-Supervised Sparse Coding with Geometric Prior for Interactive Texture Segmentation </a></strong>, SPL, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">Equiangular Kernel Dictionary Learning with Applications to Dynamic Texture Analysis</a></strong>, CVPR, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning </a></strong>, ICCV, 2015.</li>
 </ul>
  </th>
 </tr>
@@ -196,18 +204,34 @@ sidebar_link: true
 <!--3-4-->
 <details>
 <summary><strong><small>Sparse Coding for Image Quality Assessment </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, Neural Computing and Applications, 2020.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image Quality Assessment Using Kernel Sparse Coding</a></strong>, TMM, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, Neural Computing and Applications, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image Quality Assessment Using Kernel Sparse Coding</a></strong>, TMM, 2020.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
 </details>
 <!--3-5-->
 <details>
 <summary><strong><small>Sparse Coding: Algorithms and Convergence Analysis </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：Algorithms and convergence analysis </a></strong>, TPAMI, 2016.</li>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf">L0 norm-based dictionary learning by proximal methods with global convergence</a></strong>, CVPR, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：Algorithms and convergence analysis </a></strong>, TPAMI, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf">L0 norm-based dictionary learning by proximal methods with global convergence</a></strong>, CVPR, 2014.</li>
 </ul>
+ </th>
+</tr>
+</tbody>
+</table>
 </details>
 
 
@@ -223,11 +247,21 @@ sidebar_link: true
 
 <details>
 <summary><strong><small>Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery </small></strong></summary>
-<small>
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_4_1_1.png" alt="" height="160" align="left" />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_4_2_2.png" alt="" width="160" align="left" />
+  <br /><br />
+  <br /><br /><br /><br />
 <ul>
 <li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, Journal of Scientific Computing, 2015.</li>
 </ul>
-</small>
+ </th>
+</tr>
+</tbody>
+</table>
 </details>
 
 <details>
