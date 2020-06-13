@@ -10,24 +10,14 @@ sidebar_link: true
 -->
 <details open="">
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
+<ul>
 <details open="">
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
-
-</details>
-</details>
-
-
-
-
-
-
-<details open="">
-<summary><strong><small>Supervised Learning for Computational Photography and Imaging</small></strong></summary>
-<small>
 <ul>
-<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
 </ul>
-</small>
+</details>
+</ul>
 </details>
 
 <details open="">
@@ -35,6 +25,15 @@ sidebar_link: true
 <small>
 <ul>
 <li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
+</ul>
+</small>
+</details>
+
+<details open="">
+<summary><strong><small>Supervised Learning for Computational Photography and Imaging</small></strong></summary>
+<small>
+<ul>
+<li><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
 </small>
 </details>
