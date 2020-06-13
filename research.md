@@ -11,8 +11,8 @@ sidebar_link: true
 <details open="">
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
 <details open="">
-<small>
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
+<small>
 <ul>
 <tbody>
 <tr>
