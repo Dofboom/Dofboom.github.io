@@ -49,7 +49,7 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im3.png" alt="" height="130" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image Denoising via Sequential Ensemble Learning</a></strong>, TIP, 2020.</li>
 </ul>
@@ -118,8 +118,6 @@ sidebar_link: true
   <br /><br /><br /><br /><br />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_2_4_3.png" alt="" height="260" align="left" />
   <br /><br />
-  <br /><br /><br /><br /><br />
-    <br /><br />
   <br /><br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
