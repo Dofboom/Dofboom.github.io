@@ -104,7 +104,7 @@ sidebar_link: true
   <br /><br />
   <br /><br /><br /><br /><br />
 <ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, IEEE Transactions on Computational Imaging, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative Deep Learning for Super-Resolving Blurry Text Images </a></strong>, TCI, 2020.</li>
 </ul>
  </th>
 </tr>
