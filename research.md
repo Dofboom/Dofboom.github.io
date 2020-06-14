@@ -87,11 +87,8 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im5.png" alt="" height="260" align="left" />
-  <br /><br />
-  <br /><br /><br /><br />
-  <br /><br />
-  <br /><br /><br />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im5.png" alt="" height="130" align="left" />
+
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im6.png" alt="" height="130" align="left" />
   <br /><br />
   <br /><br /><br /><br />
@@ -114,13 +111,9 @@ sidebar_link: true
  <th>
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im7.png" alt="" height="130" align="left" />
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im8.png" alt="" height="130" align="left" />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_2_4_3.png" alt="" height="130" align="left" />
   <br /><br />
   <br /><br /><br /><br />
-  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_2_4_3.png" alt="" height="260" align="left" />
-  <br /><br />
-  <br /><br /><br /><br /><br />
-  <br /><br />
-  <br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep Learning for Seeing Through Window With Raindrops </a></strong>, ICCV, 2019.</li>
 </ul>
@@ -149,9 +142,8 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="200" align=";left" />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="130" align=";left" />
   <br /><br />
-  <br /><br /><br /><br />
   <br /><br /><br /><br />
 <ul>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, SPL, 2019.</li>
