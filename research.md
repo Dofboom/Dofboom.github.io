@@ -70,7 +70,7 @@ sidebar_link: true
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im4.png" alt="" height="130" />
 <ul>
 <small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based deep learning for noise-blind image deblurring</a></strong>, CVPR, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based deep learning for noise-blind image deblurring</a></strong>, CVPR, 2020.</li>
 </small>
 </ul>
  </th>
