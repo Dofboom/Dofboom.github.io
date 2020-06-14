@@ -25,7 +25,7 @@ sidebar_link: true
   <br /><br /><br /><br />
   <ul>
   <small>
-   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
+   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2self with dropout: learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
   </small>
   </ul>
  </th>
@@ -403,7 +403,7 @@ sidebar_link: true
 <!---------------------------------6-------------------------------------------------->
 <!---------------------------------6-------------------------------------------------->
 <details open="">
-<summary><strong>Fractal-Based Statistics for Static/Dynamic Texture Recognition</strong></summary>
+<summary><strong>Self-Simiarlity Statstics for Static/Dynamic Texture Recognition</strong></summary>
 <ul>
 <details>
 <summary><strong><small>Lacunarity Spetrum Analysis </small></strong></summary>
