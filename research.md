@@ -152,9 +152,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="130" align=";left" />
-  <br /><br />
-  <br /><br /><br /><br />
+  <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_3_1_1.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised Sparse Coding With Decision Forest</a></strong>, SPL, 2019.</li>
@@ -409,24 +407,47 @@ sidebar_link: true
 <ul>
 <details>
 <summary><strong><small>Lacunarity Spetrum Analysis </small></strong></summary>
-<small>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/laun.png" alt="" height="130" align="left" />
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/laun1.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br />
 <ul>
+<small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">CHARACTERIZING DYNAMIC TEXTURES WITH SPACE-TIME LACUNARITY ANALYSIS </a></strong>, ICME, 2015.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity Analysis on Image Patterns for Texture Classification </a></strong>, CVPR, 2014.</li>
-</ul>
 </small>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
 </details>
 
 <details>
 <summary><strong><small>Fractal Spetrum Analysis </small></strong></summary>
-<small>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_6_1_1.png" alt="" height="130" align="left" />
+  <br /><br />
+  <br /><br /><br /><br />
 <ul>
+<small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic Texture Classification Using Dynamic Fractal Analysis </a></strong>, ICCV, 2011.</li>
-</ul>
 </small>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
 </details>
 
 
