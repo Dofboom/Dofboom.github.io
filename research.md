@@ -462,25 +462,44 @@ sidebar_link: true
 <summary><strong>Misc.</strong></summary>
 <ul>
 
-
+<details>
+<summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
+<ul>
+<small>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, TNNLS, 2020.</li>
+</small>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
+</details>
 
 <details>
 <summary><strong><small>Maximum-Torque Contour Descriptor </small></strong></summary>
-<small>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_7_2_1.png" alt="" height="130"/>
+ <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/im_7_2_2.png" alt="" height="130"/>
 <ul>
+<small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-Based Recognition </a></strong>, CVPR, 2012.</li>
-</ul>
 </small>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
 </details>
 
-<details>
-<summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
-<small>
-<ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, TNNLS, 2020.</li>
-</ul>
-</small>
-</details>
+
 
 </ul>
 </details>
