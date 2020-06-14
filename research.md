@@ -23,7 +23,7 @@ sidebar_link: true
   <img src="https://github.com/Dofboom/Dofboom.github.io/raw/master/images/r_im2.png" alt="" height="130" />
   <ul>
   <small>
-   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2self with dropout: learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
+   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
   </small>
   </ul>
  </th>
@@ -223,7 +223,7 @@ sidebar_link: true
  <th>
 <ul>
 <small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：algorithms and convergence analysis </a></strong>, TPAMI, 2016.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：Algorithms and convergence analysis </a></strong>, TPAMI, 2016.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf">L0 norm-based dictionary learning by proximal methods with global convergence</a></strong>, CVPR, 2014.</li>
 </small>
 </ul>
