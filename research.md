@@ -11,10 +11,10 @@ sidebar_link: true
 <details open="">
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
 <ul>
-
-<details>
-<summary><strong><small><font color="#0078D7">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
 <!--1-1-->
+<details>
+<summary><strong><small><font color="#00008B">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
+
 <table>
 <tbody>
 <tr>
