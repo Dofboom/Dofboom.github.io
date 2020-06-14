@@ -13,7 +13,7 @@ sidebar_link: true
 <ul>
 <!--1-1-->
 <details>
-<summary><strong><small><font color="#00008B">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -41,7 +41,7 @@ sidebar_link: true
 <ul>
 <!--2-1-->
 <details>
-<summary><strong><small><font color="#00008B">Sequential Ensemble Learning for Image Denoising</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Sequential Ensemble Learning for Image Denoising</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ sidebar_link: true
 
 <!--2-2-->
 <details>
-<summary><strong><small><font color="#00008B">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -81,7 +81,7 @@ sidebar_link: true
 
 <!--2-3-->
 <details>
-<summary><strong><small><font color="#00008B">Collaborative Deep Learning for Super-resolving Blurry Text Images</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Collaborative Deep Learning for Super-resolving Blurry Text Images</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -103,7 +103,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small><font color="#00008B">Shape Attention for Image Raindrop Removal</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Shape Attention for Image Raindrop Removal</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -137,7 +137,7 @@ sidebar_link: true
 <ul>
 <!--3-1-->
 <details>
-<summary><strong><small><font color="#00008B">Sparse Coding for Classification: Improving Discrimination</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Sparse Coding for Classification: Improving Discrimination</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -159,7 +159,7 @@ sidebar_link: true
 </details>
 <!--3-2-->
 <details>
-<summary><strong><small><font color="#00008B">Sparse Coding and Dictionary Learning on Tensors </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Sparse Coding and Dictionary Learning on Tensors </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -178,7 +178,7 @@ sidebar_link: true
 </details>
 <!--3-3-->
 <details>
-<summary><strong><small><font color="#00008B">Sparse Coding for Texture Analysis</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Sparse Coding for Texture Analysis</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -198,7 +198,7 @@ sidebar_link: true
 </details>
 <!--3-4-->
 <details>
-<summary><strong><small><font color="#00008B">Sparse Coding for Image Quality Assessment </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Sparse Coding for Image Quality Assessment </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -216,7 +216,7 @@ sidebar_link: true
 </details>
 <!--3-5-->
 <details>
-<summary><strong><small><font color="#00008B">Sparse Coding: Algorithms and Convergence Analysis</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Sparse Coding: Algorithms and Convergence Analysis</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -245,7 +245,7 @@ sidebar_link: true
 <ul>
 <!--4-1-->
 <details>
-<summary><strong><small><font color="#00008B">Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -264,7 +264,7 @@ sidebar_link: true
 </details>
 <!--4-2-->
 <details>
-<summary><strong><small><font color="#00008B">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -283,7 +283,7 @@ sidebar_link: true
 </details>
 <!--4-3-->
 <details>
-<summary><strong><small><font color="#00008B">Removing Ghosting Reflections from Single Image </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Removing Ghosting Reflections from Single Image </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -310,7 +310,7 @@ sidebar_link: true
 <ul>
 <!--5-1-->
 <details>
-<summary><strong><small><font color="#00008B">Visual Quality Assessment: Sparse Coding Approach</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Visual Quality Assessment: Sparse Coding Approach</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -331,7 +331,7 @@ sidebar_link: true
 </details>
 <!--5-2-->
 <details>
-<summary><strong><small><font color="#00008B">Spatial-Distribution-Aware Image Quality Assessment </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Spatial-Distribution-Aware Image Quality Assessment </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -356,7 +356,7 @@ sidebar_link: true
 </details>
 <!--5-3-->
 <details>
-<summary><strong><small><font color="#00008B">Measurring Local Image Distortions </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Measurring Local Image Distortions </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -385,7 +385,7 @@ sidebar_link: true
 <ul>
 <!--6-1-->
 <details>
-<summary><strong><small><font color="#00008B">Lacunarity Spetrum Analysis</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Lacunarity Spetrum Analysis</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -406,7 +406,7 @@ sidebar_link: true
 </details>
 <!--6-2-->
 <details>
-<summary><strong><small><font color="#00008B">Fractal Spetrum Analysis </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Fractal Spetrum Analysis </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -438,7 +438,7 @@ sidebar_link: true
 <ul>
 <!--7-1-->
 <details>
-<summary><strong><small><font color="#00008B">Watermarking Deep Neural Networks in Image Processing</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Watermarking Deep Neural Networks in Image Processing</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -456,7 +456,7 @@ sidebar_link: true
 </details>
 <!--7-2-->
 <details>
-<summary><strong><small><font color="#00008B">Maximum-Torque Contour Descriptor </font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Maximum-Torque Contour Descriptor </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
