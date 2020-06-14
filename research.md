@@ -12,7 +12,7 @@ sidebar_link: true
 <summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
 <ul>
 
-<details open="">
+<details>
 <summary><strong><small>Self2Self: Self-Supervised Image Denoising</small></strong></summary>
 <!--1-1-->
 <table>
@@ -24,7 +24,7 @@ sidebar_link: true
   <br /><br />
   <br /><br /><br /><br />
   <ul>
-   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</a></strong>, CVPR, 2020.</li>
+   <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf"><small>Self2Self With Dropout Learning Self-Supervised Denoising From Single Image</small></a></strong>, CVPR, 2020.</li>
   </ul>
  </th>
 </tr>
@@ -40,7 +40,7 @@ sidebar_link: true
 <summary><strong>Supervised Learning for Computational Photography and Imaging</strong></summary>
 <ul>
 <!--2-1-->
-<details open="">
+<details>
 <summary><strong><small>Sequential Ensemble Learning for Image Denoising</small></strong></summary>
 
 <table>
@@ -60,7 +60,7 @@ sidebar_link: true
 </details>
 
 <!--2-2-->
-<details open="">
+<details>
 <summary><strong><small>Variational-EM-based Deep Learning for Noise-blind Image Deblurring</small></strong></summary>
 
 <table>
@@ -143,7 +143,7 @@ sidebar_link: true
 <summary><strong>Sparse Representation for Computer Vision</strong></summary>
 <ul>
 <!--3-1-->
-<details open="">
+<details>
 <summary><strong><small>Sparse Coding for Classification: Improving Discrimination</small></strong></summary>
 <table>
 <tbody>
@@ -345,6 +345,15 @@ sidebar_link: true
 </ul>
 </small>
 </details>
+
+<details>
+<summary><strong><small>Estimating Defocus Blur via Rank of Local Patches </small></strong></summary>
+<small>
+<ul>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating Defocus Blur via Rank of Local Patches </a></strong>, ICCV, 2017.</li>
+</ul>
+</small>
+</details>
 </ul>
 </details>
 
@@ -356,22 +365,29 @@ sidebar_link: true
 <details open="">
 <summary><strong>Fractal-Based Statistics for Static / Dynamic Texture Recognition</strong></summary>
 <ul>
-
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">CHARACTERIZING DYNAMIC TEXTURES WITH SPACE-TIME LACUNARITY ANALYSIS </a></strong>, ICME, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity Analysis on Image Patterns for Texture Classification </a></strong>, CVPR, 2014.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic Texture Classification Using Dynamic Fractal Analysis </a></strong>, ICCV, 2011.</li>
-
 <details>
-<summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
+<summary><strong><small>Lacunarity Spetrum Analysis </small></strong></summary>
 <small>
 <ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, TNNLS, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">CHARACTERIZING DYNAMIC TEXTURES WITH SPACE-TIME LACUNARITY ANALYSIS </a></strong>, ICME, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity Analysis on Image Patterns for Texture Classification </a></strong>, CVPR, 2014.</li>
 </ul>
 </small>
 </details>
+
+<details>
+<summary><strong><small>Fractal Spetrum Analysis </small></strong></summary>
+<small>
+<ul>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic Texture Classification Using Dynamic Fractal Analysis </a></strong>, ICCV, 2011.</li>
+</ul>
+</small>
+</details>
+
+
 </ul>
 </details>
 
@@ -380,17 +396,10 @@ sidebar_link: true
 <!---------------------------------7-------------------------------------------------->
 
 <details open="">
-<summary><strong>MISC</strong></summary>
+<summary><strong>Misc.</strong></summary>
 <ul>
 
-<details>
-<summary><strong><small>Estimating Defocus Blur via Rank of Local Patches </small></strong></summary>
-<small>
-<ul>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating Defocus Blur via Rank of Local Patches </a></strong>, ICCV, 2017.</li>
-</ul>
-</small>
-</details>
+
 
 <details>
 <summary><strong><small>Maximum-Torque Contour Descriptor </small></strong></summary>
@@ -400,11 +409,18 @@ sidebar_link: true
 </ul>
 </small>
 </details>
+
+<details>
+<summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
+<small>
+<ul>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking Deep Neural Networks in Image Processing </a></strong>, TNNLS, 2020.</li>
 </ul>
+</small>
 </details>
 
-
-
+</ul>
+</details>
 
 
 
