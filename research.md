@@ -13,7 +13,7 @@ sidebar_link: true
 <ul>
 
 <details>
-<summary><strong><small><font color="blue">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
+<summary><strong><small><font color=#268bd2>Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
 <!--1-1-->
 <table>
 <tbody>
@@ -41,7 +41,7 @@ sidebar_link: true
 <ul>
 <!--2-1-->
 <details>
-<summary><strong><small>Sequential Ensemble Learning for Image Denoising</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sequential Ensemble Learning for Image Denoising</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ sidebar_link: true
 
 <!--2-2-->
 <details>
-<summary><strong><small>Variational-EM-based Deep Learning for Noise-blind Image Deblurring</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Variational-EM-based Deep Learning for Noise-blind Image Deblurring</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -81,7 +81,7 @@ sidebar_link: true
 
 <!--2-3-->
 <details>
-<summary><strong><small>Collaborative Deep Learning for Super-resolving Blurry Text Images</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Collaborative Deep Learning for Super-resolving Blurry Text Images</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -103,7 +103,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small>Shape Attention for Image Raindrop Removal </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Shape Attention for Image Raindrop Removal</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -137,7 +137,7 @@ sidebar_link: true
 <ul>
 <!--3-1-->
 <details>
-<summary><strong><small>Sparse Coding for Classification: Improving Discrimination</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sparse Coding for Classification: Improving Discrimination</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -159,7 +159,7 @@ sidebar_link: true
 </details>
 <!--3-2-->
 <details>
-<summary><strong><small>Sparse Coding and Dictionary Learning on Tensors </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sparse Coding and Dictionary Learning on Tensors </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -178,7 +178,7 @@ sidebar_link: true
 </details>
 <!--3-3-->
 <details>
-<summary><strong><small>Sparse Coding for Texture Analysis</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sparse Coding for Texture Analysis</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -198,7 +198,7 @@ sidebar_link: true
 </details>
 <!--3-4-->
 <details>
-<summary><strong><small>Sparse Coding for Image Quality Assessment </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sparse Coding for Image Quality Assessment </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -216,7 +216,7 @@ sidebar_link: true
 </details>
 <!--3-5-->
 <details>
-<summary><strong><small>Sparse Coding: Algorithms and Convergence Analysis </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Sparse Coding: Algorithms and Convergence Analysis</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -245,7 +245,7 @@ sidebar_link: true
 <ul>
 <!--4-1-->
 <details>
-<summary><strong><small>Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -264,7 +264,7 @@ sidebar_link: true
 </details>
 <!--4-2-->
 <details>
-<summary><strong><small>Cartoon-Texture Decomposition via Discriminative Patch Recurrence </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -283,7 +283,7 @@ sidebar_link: true
 </details>
 <!--4-3-->
 <details>
-<summary><strong><small>Removing Ghosting Reflections from Single Image </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Removing Ghosting Reflections from Single Image </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -308,9 +308,9 @@ sidebar_link: true
 <details open="">
 <summary><strong>Visual Quality Assessment: From Global Statistics to Local Features</strong></summary>
 <ul>
-
+<!--5-1-->
 <details>
-<summary><strong><small>Visual Quality Assessment: Sparse Coding Approach</small></strong></summary>
+<summary><strong><small><font color=#268bd2>Visual Quality Assessment: Sparse Coding Approach</font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -329,9 +329,9 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
-
+<!--5-2-->
 <details>
-<summary><strong><small>Spatial-Distribution-Aware Image Quality Assessment </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Spatial-Distribution-Aware Image Quality Assessment </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -354,9 +354,9 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
-
+<!--5-3-->
 <details>
-<summary><strong><small>Measurring Local Image Distortions </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Measurring Local Image Distortions </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -383,8 +383,9 @@ sidebar_link: true
 <details open="">
 <summary><strong>Self-Simiarlity Statstics for Static/Dynamic Texture Recognition</strong></summary>
 <ul>
+<!--6-1-->
 <details>
-<summary><strong><small>Lacunarity Spetrum Analysis </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Lacunarity Spetrum Analysis</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -403,9 +404,9 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
-
+<!--6-2-->
 <details>
-<summary><strong><small>Fractal Spetrum Analysis </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Fractal Spetrum Analysis </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -435,9 +436,9 @@ sidebar_link: true
 <details open="">
 <summary><strong>Misc.</strong></summary>
 <ul>
-
+<!--7-1-->
 <details>
-<summary><strong><small>Watermarking Deep Neural Networks in Image Processing </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Watermarking Deep Neural Networks in Image Processing</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -453,9 +454,9 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
-
+<!--7-2-->
 <details>
-<summary><strong><small>Maximum-Torque Contour Descriptor </small></strong></summary>
+<summary><strong><small><font color=#268bd2>Maximum-Torque Contour Descriptor </font></small></strong></summary>
 <table>
 <tbody>
 <tr>
