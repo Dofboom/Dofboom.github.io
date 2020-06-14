@@ -217,8 +217,8 @@ sidebar_link: true
  <th>
 <ul>
 <small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, NCA, 2020.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image Quality Assessment Using Kernel Sparse Coding</a></strong>, TMM, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning </a></strong>, NCA, 2020.</li>
 </small>
 </ul>
  </th>
@@ -376,7 +376,7 @@ sidebar_link: true
 </details>
 
 <details>
-<summary><strong><small>Estimating Defocus Blur via Rank of Local Patches </small></strong></summary>
+<summary><strong><small>Measurring Local Image Distortions </small></strong></summary>
 <table>
 <tbody>
 <tr>
@@ -403,7 +403,7 @@ sidebar_link: true
 <!---------------------------------6-------------------------------------------------->
 <!---------------------------------6-------------------------------------------------->
 <details open="">
-<summary><strong>Fractal-Based Statistics for Static / Dynamic Texture Recognition</strong></summary>
+<summary><strong>Fractal-Based Statistics for Static/Dynamic Texture Recognition</strong></summary>
 <ul>
 <details>
 <summary><strong><small>Lacunarity Spetrum Analysis </small></strong></summary>
