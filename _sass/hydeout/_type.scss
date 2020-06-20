@@ -15,13 +15,13 @@ h6,
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
 }
-// h1控制除about me主界面之外的title大小,t01.25
+// h1控制除about me主界面之外的title大小, 控制about me主界面的title大小在_post.scss中的h2.title中的font-size
 h1 {
   font-size: 1rem;//1.25*0.8
 }
 
 h2 {
-  font-size: 1rem;//1.25，h2控制about me主界面的title大小
+  font-size: 1rem;//1.25
   margin-top: 1rem;
 }
 
