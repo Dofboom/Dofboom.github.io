@@ -38,7 +38,7 @@ body {
 
   .site-title {
     font-family: 'Abril Fatface', serif;
-    font-size: $large-font-size;
+    font-size: 1rem; //$large-font-size*0.8
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
@@ -110,7 +110,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 2.25rem;
+    font-size: 1.8rem; //2.25*0.8
   }
 
   // Show secondary nav content + lead
