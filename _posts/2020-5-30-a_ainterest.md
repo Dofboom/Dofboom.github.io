@@ -4,8 +4,8 @@ title: Research Interest
 ---
 
 <ul>
-<li><span style="font-size: 90%;">Computational photography and imaging</span></li>
-<li><span style="font-size: 90%;">Deep learning and Sparse coding</span></li>
-<li><span style="font-size: 90%;">Image analysis and Vision computing</span></li>
-<li><span style="font-size: 90%;">Visual quality assessment for image processing</span></li>
+<li><t1><span>Computational photography and imaging</span></t1></li>
+<li><t1><span>Deep learning and Sparse coding</span></t1></li>
+<li><t1><span>Image analysis and Vision computing</span></t1></li>
+<li><t1><span>Visual quality assessment for image processing</span></t1></li>
 </ul>
