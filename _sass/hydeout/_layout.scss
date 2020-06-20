@@ -50,7 +50,7 @@ body {
 .content {
   background: $body-bg;
   color: $body-color;
-  padding: $section-spacing;
+  padding: $section-spacing*0.5;
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -203,8 +203,8 @@ body {
     color: $body-color;
     min-height: 100vh;
     padding:
-      $section-spacing * 0.5
-      $section-spacing * 0.5
+      $section-spacing
+      $section-spacing
       0;
 
     @if $layout-reverse {
