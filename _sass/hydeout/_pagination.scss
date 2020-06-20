@@ -61,12 +61,12 @@
 
     + * {
       border-top: 1px solid $border-color;
-      margin-top: $section-spacing*2;
-      padding-top: $section-spacing*2;
+      margin-top: $section-spacing;
+      padding-top: $section-spacing;
     }
   }
 
   .index #sidebar {
-    padding-bottom: $section-spacing;
+    padding-bottom: $section-spacing*2;
   }
 }
