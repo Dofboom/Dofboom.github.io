@@ -8,7 +8,7 @@
 
 .pagination {
   color: $gray-3;
-  margin-bottom: $section-spacing*0.5;
+  margin-bottom: $section-spacing;
   text-align: center;
 
   > a {
@@ -30,7 +30,7 @@
 
 // Bottom -> margin-top;
 * + .pagination {
-  margin-top: $section-spacing;
+  margin-top: $section-spacing*0.5;
 }
 
 // Push above header if newer on mobile
