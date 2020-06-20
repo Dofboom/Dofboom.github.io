@@ -84,7 +84,7 @@ body {
   background: transparent;
   color: $sidebar-title-color;
   margin:
-    ($heading-spacing - $section-spacing)
+    ($heading-spacing - $section-spacing*2)
     $section-spacing*2
     $section-spacing*2;
 
