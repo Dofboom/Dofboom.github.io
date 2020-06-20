@@ -15,9 +15,9 @@ h6,
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
 }
-// h1控制除about me界面之外的title大小
+// h1控制除about me界面之外的title大小,t01.25
 h1 {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
 }
 
 h2 {
@@ -41,6 +41,22 @@ h5 {
 h6 {
   font-size: 1rem;
   margin-top: 1rem;
+}
+//t-half t1 t2 t3 
+thalf {
+  font-size: 1.05rem;
+}
+
+t1 {
+  font-size: 0.92rem;
+}
+
+t2 {
+  font-size: 0.85rem;
+}
+
+t3 {
+  font-size: 0.65rem;
 }
 
 p {
