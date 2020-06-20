@@ -78,13 +78,13 @@ article + *,
 .post-meta {
   color: $body-muted;
   margin-bottom: 1rem; //此处控制about me界面标题离下面内容的距离
-  margin-top: 2.5rem;
+  margin-top: -0.5rem;
 }
 
 .post,
 .page {
   .content li + li {
-    margin-top: 0.25rem;
+    margin-top: 1.25rem;
   }
 }
 
