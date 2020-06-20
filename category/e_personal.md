@@ -3,7 +3,7 @@ layout: category
 title: Personal
 ---
 <style>
-p.ex1 {margin-bottom:0.3cm}
+p.ex1 {margin-bottom:0.2cm}
 </style>
 <p><t1> You may find something interesting about me in this page.</t1></p>
 <br>
