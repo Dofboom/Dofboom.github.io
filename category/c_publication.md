@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Publication
+title: Publications
 ---
 
 <details open="">

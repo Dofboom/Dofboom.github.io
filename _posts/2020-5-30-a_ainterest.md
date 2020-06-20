@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Interest
+title: Research Interests
 ---
 
 <ul>
