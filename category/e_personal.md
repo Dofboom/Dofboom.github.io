@@ -15,7 +15,7 @@ p.ex1 {margin-bottom:0.3cm}
 </p>
 <br>
 <t-half><strong>Writing</strong></t-half>
-<p><t1>One of my favorite hobbies is writing ancient Chinese poems. Some of my works can be found <a href="https://csyhquan.github.io/category/poem/poem.html">here</a>. <br />I also wrote a <a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/category/poem/PoemAssist.rar">program</a> for checking the rhythm errors of a ancient Chinese poem and assisting the writing.</t1></p>
+<p><t1>One of my favorite hobbies is writing ancient Chinese poems. Some of my works can be found <a href="https://dofboom.github.io/category/poem/poem.html">here</a>. <br />I also wrote a <a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/category/poem/PoemAssist.rar">program</a> for checking the rhythm errors of a ancient Chinese poem and assisting the writing.</t1></p>
 <br>
 
 <t-half><strong>Just for Fun</strong></t-half>
