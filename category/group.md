@@ -1,6 +1,6 @@
 ---
 layout: category
-title: <font color="fff">Group</font>
+title: <font color="#fff">Group</font>
 ---
 <style>
 p.ex1 {margin-bottom:-0.1cm}
@@ -291,3 +291,8 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
+
+
+</tr>
+</tbody>
+</table>
