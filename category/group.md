@@ -44,6 +44,23 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级co-surprised_phd周子涵.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Zihan Zhou</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(周子涵)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
 </tr>
 </tbody>
 </table>
