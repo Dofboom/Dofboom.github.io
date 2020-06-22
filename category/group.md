@@ -6,7 +6,7 @@ title: Group
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
-<table width="30%">
+<table width="280">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
