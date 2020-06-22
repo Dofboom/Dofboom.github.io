@@ -280,7 +280,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="350">
+<table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -298,7 +298,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="350">
+<table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -315,7 +315,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="350">
+<table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
