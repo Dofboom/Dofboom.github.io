@@ -10,7 +10,7 @@ p.ex2 {margin-bottom: 0cm}
 <summary><t0><div align="center"><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></div></t0></summary>
 
 <!-------------------------------------------First--------------------------------------------------------->
-<table width="80%" border="0">
+<table width="70%" border="0">
 <tbody>
 <tr>
 
