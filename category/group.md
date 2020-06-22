@@ -280,7 +280,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="370">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
