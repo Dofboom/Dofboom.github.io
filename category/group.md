@@ -7,7 +7,7 @@ p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
 
-<table width="100%">
+<table width="100%" border="0">
 <tbody>
 <tr>
 <td style="background-color: #fff;">
