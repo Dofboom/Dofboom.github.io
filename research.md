@@ -4,7 +4,7 @@ title: Research
 sidebar_link: true
 ---
 <style>
-table.ex1 {width:100% border:1 bordercolor:#e5e5e5}
+table.ex1 {width: 100% border: 1 bordercolor: #e5e5e5}
 </style>
 <details open="">
 <summary><t-half><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></t-half></summary>
