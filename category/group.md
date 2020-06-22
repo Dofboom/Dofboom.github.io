@@ -9,7 +9,7 @@ p.ex2 {margin-bottom: 0cm}
 
 <table width="100%">
 <tr>
-<td>
+<td style="background-color: #fff;">
 <table width="380">
 <tbody>
 <tr>
@@ -26,7 +26,7 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
-<td>
+<td style="background-color: #fff;">
 <table width="380">
 <tbody>
 <tr>
