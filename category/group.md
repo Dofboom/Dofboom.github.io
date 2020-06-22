@@ -8,8 +8,8 @@ p.ex2 {margin-bottom: 0cm}
 </style>
 <table width="30%">
 <tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
+<td>
+<th style="background-color: #f9f9f9;">
 
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2015级co-surprised_phd许若涛.jpg" alt="" align="left" /></p>
 <p class="ex1"><t0><span><strong> &ensp; Ruotao Xu (许若涛)</strong></span></t0></p>
