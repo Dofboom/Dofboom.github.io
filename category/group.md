@@ -1,6 +1,6 @@
 ---
 layout: category
-title: <t>Group</t>
+title: <font color="fff">Group</font>
 ---
 <style>
 p.ex1 {margin-bottom:-0.1cm}
