@@ -172,9 +172,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
-<table width="100%" border="0">
-<tbody>
-<tr>
+
 <td style="background-color: #fff;">
 <table width="380">
 <tbody>
@@ -200,8 +198,9 @@ p.ex2 {margin-bottom: 0cm}
 <!-------------------------------------------fourth--------------------------------------------------------->
 
 
-
-
+<table width="100%" border="0">
+<tbody>
+<tr>
 
 <td style="background-color: #fff;">
 <table width="380">
