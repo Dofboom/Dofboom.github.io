@@ -268,7 +268,7 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 
-
+<td style="background-color: #fff;">
 <table width="340">
 <tbody>
 <tr>
@@ -283,6 +283,8 @@ p.ex2 {margin-bottom: 0cm}
 </tr>
 </tbody>
 </table>
+</td>
+
 
 <td style="background-color: #fff;">
 <table width="340">
