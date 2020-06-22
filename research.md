@@ -3,9 +3,6 @@ layout: page
 title: Research
 sidebar_link: true
 ---
-<style>
-table.ex1 {width: 100% border: 1 bordercolor: #e5e5e5}
-</style>
 <details open="">
 <summary><t-half><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></t-half></summary>
 <ul>
@@ -13,7 +10,7 @@ table.ex1 {width: 100% border: 1 bordercolor: #e5e5e5}
 <details open="">
 <summary><strong><t1><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></t1></strong></summary>
 
-<table class="ex1">
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
