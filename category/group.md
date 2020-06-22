@@ -2,6 +2,8 @@
 layout: category
 title: <font color="#fff">Group</font>
 ---
+
+<summary><t0><span><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></span></t0></summary>
 <style>
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
@@ -71,42 +73,6 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 
-
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2017级硕士陈一鑫.jpg" alt="" height="136" align="left" /></p>
-<br />
-<p class="ex1"><g0><span><strong> &ensp; Yixin Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈一鑫)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2017-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
-<br />
-<p class="ex1"><g0><span><strong> &ensp; Huan Teng</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(滕寰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -125,17 +91,6 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
-</tr>
-</tbody>
-</table>
-
-
-
-<!-------------------------------------------Third--------------------------------------------------------->
-
-<table width="100%" border="0">
-<tbody>
-<tr>
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -172,6 +127,20 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
+</tr>
+</tbody>
+</table>
+
+
+
+<!-------------------------------------------Third--------------------------------------------------------->
+
+<table width="100%" border="0">
+<tbody>
+<tr>
+
+
+
 
 <td style="background-color: #fff;">
 <table width="340">
@@ -190,17 +159,6 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
-</tr>
-</tbody>
-</table>
-
-
-<!-------------------------------------------fourth--------------------------------------------------------->
-
-
-<table width="100%" border="0">
-<tbody>
-<tr>
 
 <td style="background-color: #fff;">
 <table width="340">
@@ -237,6 +195,20 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
+
+</tr>
+</tbody>
+</table>
+
+
+<!-------------------------------------------fourth--------------------------------------------------------->
+
+
+<table width="100%" border="0">
+<tbody>
+<tr>
+
+
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -253,16 +225,6 @@ p.ex2 {margin-bottom: 0cm}
 </tbody>
 </table>
 </td>
-
-</tr>
-</tbody>
-</table>
-
-<!-------------------------------------------fifth--------------------------------------------------------->
-
-<table width="100%" border="0">
-<tbody>
-<tr>
 
 <td style="background-color: #fff;">
 <table width="340">
@@ -292,23 +254,21 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
+</tr>
+</tbody>
+</table>
 
-<td style="background-color: #fff;">
-<table width="340">
+<br/>
+
+<!-------------------------------------------fifth--------------------------------------------------------->
+<summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
+
+
+<table width="100%" border="0">
 <tbody>
 <tr>
-<td style="background-color: #fff;">
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
-</tr>
-</tbody>
-</table>
-<br/>
-<summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
+
 <table width="340">
 <tbody>
 <tr>
@@ -318,8 +278,47 @@ p.ex2 {margin-bottom: 0cm}
 <p class="ex1"><g1><span>&ensp; &nbsp;(刘涛)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;鹏华基金管理有限公司</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management Co., Ltd.</span></g1></p>
 </td>
+</tr>
+</tbody>
+</table>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2017级硕士陈一鑫.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Yixin Chen</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(陈一鑫)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2017-2020</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Huan Teng</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(滕寰)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-2020</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
 </tr>
 </tbody>
 </table>
