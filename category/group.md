@@ -28,7 +28,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
