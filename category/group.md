@@ -285,11 +285,11 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2016级硕士刘涛.jpg" alt="" height="136" align="left" /></p>
-<p class="ex1"><g0><span><strong> &ensp; Tao Liu</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(刘涛)</span></g1></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Tao Liu (刘涛)</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management Co., Ltd.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -298,16 +298,16 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="375">
+<table width="350">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2017级硕士陈一鑫.jpg" alt="" height="136" align="left" /></p>
-<p class="ex1"><g0><span><strong> &ensp; Yixin Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈一鑫)</span></g1></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Yixin Chen (陈一鑫)</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2017-2020</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Tencent</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;NetEase AI Lab</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -315,16 +315,16 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="375">
+<table width="350">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
-<p class="ex1"><g0><span><strong> &ensp; Huan Teng</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(滕寰)</span></g1></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Huan Teng (滕寰)</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2020</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Artificial Intelligence Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;HUAWEI TECHNOLOGIES CO., LTD.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;HUAWEI TECHNOLOGIES</span></g1></p>
 </td>
 </tr>
 </tbody>
