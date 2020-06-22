@@ -7,8 +7,9 @@ p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
 
-
-
+<table width="100%">
+<tr>
+<td>
 <table width="380">
 <tbody>
 <tr>
@@ -23,8 +24,9 @@ p.ex2 {margin-bottom: 0cm}
 </tr>
 </tbody>
 </table>
+</td>
 
-
+<td>
 <table width="330">
 <tbody>
 <tr>
@@ -39,6 +41,9 @@ p.ex2 {margin-bottom: 0cm}
 </tr>
 </tbody>
 </table>
+</td>
 
+</tr>
+</table>
 
 
