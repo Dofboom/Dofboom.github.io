@@ -311,14 +311,13 @@ p.ex2 {margin-bottom: 0cm}
 <summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
 <table width="323">
 <tbody>
-<tr>
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2016级硕士刘涛.jpg" alt="" height="136" align="left" /></p>
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Tao Liu</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(刘涛)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.2016-2019</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;数据工程师</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></t1></p>
 <p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;鹏华基金管理有限公司</span></t1></p>
 </td>
 </tr>
