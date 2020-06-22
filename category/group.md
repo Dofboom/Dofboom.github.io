@@ -14,7 +14,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="340">  <!--380-->
+<table width="375">  <!--380,340-->
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -31,7 +31,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -48,7 +48,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -77,7 +77,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -94,7 +94,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -111,7 +111,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -141,7 +141,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -158,7 +158,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -175,7 +175,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -204,7 +204,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -221,7 +221,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -238,7 +238,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="340">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -298,7 +298,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="370">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -315,7 +315,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="370">
+<table width="375">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
