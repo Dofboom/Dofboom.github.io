@@ -6,7 +6,7 @@ title: <font color="#fff">Group</font>
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
-<table width="280">
+<table width="300">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
