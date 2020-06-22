@@ -253,6 +253,8 @@ p.ex2 {margin-bottom: 0cm}
 <table width="100%" border="0">
 <tbody>
 <tr>
+
+
 <td style="background-color: #fff;">
 <table width="380">
 <tbody>
@@ -269,6 +271,8 @@ p.ex2 {margin-bottom: 0cm}
 </tbody>
 </table>
 </td>
+
+
 
 <td style="background-color: #fff;">
 <table width="380">
@@ -287,11 +291,13 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
+
+
 <td style="background-color: #fff;">
 <table width="380">
 <tbody>
 <tr>
-<td style="background-color: #f9f9f9;">
+<td >
 </td>
 </tr>
 </tbody>
