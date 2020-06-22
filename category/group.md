@@ -6,10 +6,10 @@ title: Teaching
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
-<table width="30%">
-<tbody width="30%">
-<tr width="30%">
-<td style="background-color: #f9f9f9;" width="30%">
+<table width="400">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
 
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2015级co-surprised_phd许若涛.jpg" alt="" align="left" /></p>
 <p class="ex1"><t-half><span><strong> &ensp; Ruotao Xu</strong></span></t-half></p>
