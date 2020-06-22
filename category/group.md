@@ -34,10 +34,10 @@ p.ex2 {margin-bottom: 0cm}
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2015级co-surprised_phd许若涛.jpg" alt="" height="136" align="left" /></p>
 <br />
-<p class="ex1"><t-half  style="font-size: 85%;"><span><strong> &ensp; Ruotao Xu</strong></span></t-half></p>
-<p class="ex1"><t1 style="font-size: 85%;"><span>&ensp; &nbsp;(许若涛)</span></t1></p>
-<p class="ex1"><t1 style="font-size: 85%;"><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D.</span></t1></p>
-<p class="ex1"><t1 style="font-size: 85%;"><span> &ensp;&nbsp;&nbsp;2015</span></t1></p>
+<p class="ex1"><g0><span><strong> &ensp; Ruotao Xu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(许若涛)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Candidate</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -51,10 +51,10 @@ p.ex2 {margin-bottom: 0cm}
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级co-surprised_phd周子涵.jpg" alt="" height="136" align="left" /></p>
 <br />
-<p class="ex1" style="font-size: 85%;"><t-half><span><strong> &ensp; Zihan Zhou</strong></span></t-half></p>
-<p class="ex1" style="font-size: 85%;"><t1><span>&ensp; &nbsp;(周子涵)</span></t1></p>
-<p class="ex1" style="font-size: 85%;"><t1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D.</span></t1></p>
-<p class="ex1" style="font-size: 85%;"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+<p class="ex1"><g0><span><strong> &ensp; Zihan Zhou</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(周子涵)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Candidate</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -317,7 +317,7 @@ p.ex2 {margin-bottom: 0cm}
 <p class="ex1"><t-half><span><strong> &ensp; Tao Liu</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(刘涛)</span></t1></p>
 <p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;Data ngineer</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></t1></p>
 <p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;鹏华基金管理有限公司</span></t1></p>
 </td>
 </tr>
