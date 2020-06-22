@@ -72,7 +72,7 @@ p.ex2 {margin-bottom: 0cm}
 
 <!-------------------------------------------Second--------------------------------------------------------->
 
-<table width="100%" border="0">
+<table width="90%" border="0">
 <tbody>
 <tr>
 
@@ -135,7 +135,7 @@ p.ex2 {margin-bottom: 0cm}
 
 <!-------------------------------------------Third--------------------------------------------------------->
 
-<table width="100%" border="0">
+<table width="90%" border="0">
 <tbody>
 <tr>
 
@@ -199,7 +199,7 @@ p.ex2 {margin-bottom: 0cm}
 <!-------------------------------------------fourth--------------------------------------------------------->
 
 
-<table width="100%" border="0">
+<table width="90%" border="0">
 <tbody>
 <tr>
 
@@ -275,7 +275,7 @@ p.ex2 {margin-bottom: 0cm}
 <summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
 
 
-<table width="100%" border="0">
+<table width="90%" border="0">
 <tbody>
 <tr>
 
