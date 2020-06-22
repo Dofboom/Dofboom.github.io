@@ -198,10 +198,10 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士陈铭钦.jpg" alt="" align="left" /></p>
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士陈铭钦.png" alt="" align="left" /></p>
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Mingqin Chen</strong></span></t-half></p>
-<p class="ex1"><t1><span>&ensp; &nbsp;(林培康)</span></t1></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(陈铭钦)</span></t1></p>
 <p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
 <p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
 </td>
