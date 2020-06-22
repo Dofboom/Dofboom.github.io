@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Teaching
+title: Group
 ---
 <style>
 p.ex1 {margin-bottom:-0.1cm}
