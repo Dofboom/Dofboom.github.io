@@ -6,11 +6,12 @@ title: Group
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
-<div style="position:absolut; left:200px;">
-<p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the Center of Vision Computing (CVC) in SCUT.</t1></p>
-</div>
-<summary><t0><div><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></div></t0></summary>
 
+<p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the Center of Vision Computing (CVC) in SCUT.</t1></p>
+
+<div style="position:absolut; left:200px;">
+<summary><t0><div><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></div></t0></summary>
+</div>
 <!-------------------------------------------First--------------------------------------------------------->
 <table width="70%" border="0">
 <tbody>
