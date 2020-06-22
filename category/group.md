@@ -112,40 +112,6 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
-<br />
-<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-
-
-
-
-
-</tr>
-</tbody>
-</table>
-
-
-
-<!-------------------------------------------Third--------------------------------------------------------->
-
-<table width="70%" border="0">
-<tbody>
-<tr>
 
 <td style="background-color: #fff;">
 <table width="340">
@@ -163,6 +129,24 @@ p.ex2 {margin-bottom: 0cm}
 </tbody>
 </table>
 </td>
+
+
+
+
+
+</tr>
+</tbody>
+</table>
+
+
+
+<!-------------------------------------------Third--------------------------------------------------------->
+
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+
 
 <td style="background-color: #fff;">
 <table width="340">
@@ -182,6 +166,22 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 
 <td style="background-color: #fff;">
 <table width="340">
