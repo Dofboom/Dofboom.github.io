@@ -6,7 +6,7 @@ title: Group
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
-<!-------------------------------------------第二行--------------------------------------------------------->
+<!-------------------------------------------First--------------------------------------------------------->
 <table width="100%" border="0">
 <tbody>
 <tr>
@@ -65,7 +65,7 @@ p.ex2 {margin-bottom: 0cm}
 </tbody>
 </table>
 
-<!-------------------------------------------第二行--------------------------------------------------------->
+<!-------------------------------------------Second--------------------------------------------------------->
 
 <table width="100%" border="0">
 <tbody>
@@ -126,3 +126,178 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 
 
+
+<!-------------------------------------------Third--------------------------------------------------------->
+
+<table width="100%" border="0">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士林培康.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Peikang Lin</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(林培康)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士杨婕婷.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Jieting Yang</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(杨婕婷)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士邓世杰.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Shijie Deng</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(邓世杰)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+<!-------------------------------------------fourth--------------------------------------------------------->
+
+<table width="100%" border="0">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士陈铭钦.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Mingqin Chen</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(林培康)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士秦坤坤.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Kunkun Qin</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(秦坤坤)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2020级硕士陈卓杰.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Zhuojie Chen</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(陈卓杰)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
+
+<!-------------------------------------------fifth--------------------------------------------------------->
+
+<table width="100%" border="0">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2020级硕士刘宝铃.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Baoling Liu</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(刘宝铃)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2020级硕士秦欣然.jpg" alt="" align="left" /></p>
+<br />
+<p class="ex1"><t-half><span><strong> &ensp; Xinran Qin</strong></span></t-half></p>
+<p class="ex1"><t1><span>&ensp; &nbsp;(秦欣然)</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="380">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
