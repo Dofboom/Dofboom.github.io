@@ -11,7 +11,7 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 <td style="background-color: #fff;">
-<table width="323">  <!--380-->
+<table width="340">  <!--380-->
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -45,7 +45,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -73,7 +73,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -81,8 +81,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Yixin Chen</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(陈一鑫)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2017</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2017-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -90,7 +90,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -98,8 +98,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Huan Teng</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(滕寰)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -108,7 +108,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -116,8 +116,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Jieting Yang</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(杨婕婷)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -145,8 +145,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Peikang Lin</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(林培康)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2018-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -155,7 +155,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -163,8 +163,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Kunkun Qin</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(秦坤坤)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -174,7 +174,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -182,8 +182,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Mingqin Chen</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(陈铭钦)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -203,7 +203,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -211,8 +211,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Shijie Deng</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(邓世杰)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2019-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -220,7 +220,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -228,8 +228,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Baoling Liu</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(刘宝铃)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -238,7 +238,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -246,8 +246,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Xinran Qin</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(秦欣然)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -265,7 +265,7 @@ p.ex2 {margin-bottom: 0cm}
 <tr>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
@@ -273,8 +273,8 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><t-half><span><strong> &ensp; Zhuojie Chen</strong></span></t-half></p>
 <p class="ex1"><t1><span>&ensp; &nbsp;(陈卓杰)</span></t1></p>
-<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;M.Sc.</span></t1></p>
-<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020</span></t1></p>
+<p class="ex1"><t1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></t1></p>
+<p class="ex1"><t1><span> &ensp;&nbsp;&nbsp;2020-Present</span></t1></p>
 </td>
 </tr>
 </tbody>
@@ -282,7 +282,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #fff;">
@@ -294,7 +294,7 @@ p.ex2 {margin-bottom: 0cm}
 
 
 <td style="background-color: #fff;">
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #fff;">
@@ -309,7 +309,7 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 <br/>
 <summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
-<table width="323">
+<table width="340">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
