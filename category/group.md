@@ -3,7 +3,7 @@ layout: category
 title: Group
 ---
 
-<summary><t0><span><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></span></t0></summary>
+<summary><t0><span><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></span></t0></summary>
 <style>
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
