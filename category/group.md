@@ -39,7 +39,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Ruotao Xu</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(许若涛)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Xuhui Yang</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(杨旭辉)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Zihan Zhou</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(周子涵)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Jieting Yang</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(杨婕婷)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-Present</span></g1></p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Peikang Lin</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(林培康)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-Present</span></g1></p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
 </tr>
@@ -166,7 +166,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Mingqin Chen</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(陈铭钦)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
 </tr>
@@ -183,7 +183,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Shijie Deng</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(邓世杰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
 </tr>
@@ -212,7 +212,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Baoling Liu</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(刘宝铃)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
 </tr>
@@ -229,7 +229,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Xinran Qin</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(秦欣然)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
 </tr>
@@ -246,7 +246,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Zhuojie Chen</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(陈卓杰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Degree Candidate</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
 </tr>
