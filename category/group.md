@@ -7,7 +7,7 @@ p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
 </style>
 <p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the Center of Vision Computing (CVC) in SCUT.</t1></p>
-<summary><t0><div align="center"><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></div></t0></summary>
+<summary><t0><div><strong><font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></div></t0></summary>
 
 <!-------------------------------------------First--------------------------------------------------------->
 <table width="60%" border="0">
