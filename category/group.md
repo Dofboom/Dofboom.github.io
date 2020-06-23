@@ -4,9 +4,9 @@ title: Group
 ---
 <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
 <!-- 需要放大的图片 -->
-    <div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im4.png" alt="" width="130" class="pimg"></div>
- <div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" width="130" class="pimg"></div>
- <div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" width="130" class="pimg"></div>
+<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im4.png" alt="" width="130" class="pimg"></div>
+<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" width="130" class="pimg"></div>
+<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" width="130" class="pimg"></div>
     <!-- 图片放大后的遮罩层 -->
     <div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
         <!-- 放大后的图片 -->
