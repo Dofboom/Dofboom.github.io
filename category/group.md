@@ -2,80 +2,395 @@
 layout: category
 title: Group
 ---
-<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
-
-
-
-
-<!-- 需要放大的图片 -->
-<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im4.png" alt="" width="130" class="pimg"></div>
-<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" width="130" class="pimg"></div>
-<div><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" width="130" class="pimg"></div>
-<!-- 图片放大后的遮罩层 -->
-<div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
-        <!-- 放大后的图片 -->
-    <div id="innerdiv" style="position:absolute;z-index: 2000">
-            <img id="bigimg" style="border:0px solid #fff;" src="" />
-    </div>
+<style>
+p.ex1 {margin-bottom:-0.1cm}
+p.ex2 {margin-bottom: 0cm}
+</style>
+<p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the Center of Vision Computing (CVC) in SCUT.</t1></p>
+<div style="position:absolut; left:200px;">
+<summary><t0><div><strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></div></t0></summary>
 </div>
-	
-	
-<script>
-        // 图片点击事件
-        $('.pimg').click(function () {
-            enlarge(this);
-        })
- 
-        // 图片放大函数
-        function enlarge(obj) {
- 
-            var _this = $(obj);
-            imgShow("#outerdiv", "#innerdiv", "#bigimg", _this);
- 
- 
-            function imgShow(outerdiv, innerdiv, bigimg, _this) {
-                var src = _this.attr("src"); //获取当前点击的pimg元素中的src属性  
-                $(bigimg).attr("src", src); //设置#bigimg元素的src属性  
- 
-                /*获取当前点击图片的真实大小，并显示弹出层及大图*/
-                $("<img/>").attr("src", src).load(function () {
-                    var windowW = $(window).width(); //获取当前窗口宽度  
-                    var windowH = $(window).height(); //获取当前窗口高度  
-                    var realWidth = this.width; //获取图片真实宽度  
-                    var realHeight = this.height; //获取图片真实高度  
-                    var imgWidth, imgHeight;
-                    var scale = 1.2; //缩放尺寸，当图片真实宽度和高度大于窗口宽度和高度时进行缩放  
- 
-                    if (realHeight > windowH * scale) { //判断图片高度  
-                        imgHeight = windowH * scale; //如大于窗口高度，图片高度进行缩放  
-                        imgWidth = imgHeight / realHeight * realWidth; //等比例缩放宽度  
-                        if (imgWidth > windowW * scale) { //如宽度扔大于窗口宽度  
-                            imgWidth = windowW * scale; //再对宽度进行缩放  
-                        }
-                    } else if (realWidth > windowW * scale) { //如图片高度合适，判断图片宽度  
-                        imgWidth = windowW * scale; //如大于窗口宽度，图片宽度进行缩放  
-                        imgHeight = imgWidth / realWidth * realHeight; //等比例缩放高度  
-                    } else { //如果图片真实高度和宽度都符合要求，高宽不变  
-                        imgWidth = realWidth;
-                        imgHeight = realHeight;
-                    }
-                    $(bigimg).css("width", imgWidth); //以最终的宽度对图片缩放  
- 
-                    var w = (windowW - imgWidth) / 2; //计算图片与窗口左边距  
-                    var h = (windowH - imgHeight) / 2; //计算图片与窗口上边距  
-                    $(innerdiv).css({
-                        "top": h,
-                        "left": w
-                    }); //设置#innerdiv的top和left属性  
-                    $(outerdiv).fadeIn("fast"); //淡入显示#outerdiv及.pimg  
-                });
- 
-                $(outerdiv).click(function () { //再次点击淡出消失弹出层  
-                    $(this).fadeOut("fast");
-                });
-            }
-        }
-</script>
+<!-------------------------------------------First--------------------------------------------------------->
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+<td style="background-color: #fff;">
+<table width="340">  <!--380,340-->
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/黄艳.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Yan Huang</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(黄艳)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised postdoc.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-2020</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2015级co-surprised_phd许若涛.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Ruotao Xu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(许若涛)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/杨旭辉.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Xuhui Yang</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(杨旭辉)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
 
 
-	
+
+<!-------------------------------------------Second--------------------------------------------------------->
+
+<table width="70%" border="0">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/梁锦绣.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Jinxiu Liang</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(梁锦秀)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2017-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级co-surprised_phd周子涵.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Zihan Zhou</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(周子涵)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/杨婕婷.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Jieting Yang</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(杨婕婷)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+
+
+</tr>
+</tbody>
+</table>
+
+
+
+<!-------------------------------------------Third--------------------------------------------------------->
+
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/林培康.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Peikang Lin</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(林培康)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/陈铭钦.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Mingqin Chen</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(陈铭钦)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+<!-------------------------------------------fourth--------------------------------------------------------->
+
+
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2019级硕士邓世杰.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Shijie Deng</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(邓世杰)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/刘宝铃.jpg" height="136" alt="" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Baoling Liu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(刘宝铃)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/秦欣然.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Xinran Qin</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(秦欣然)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<!--
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>-->
+</tr>
+</tbody>
+</table>
+
+<!-------------------------------------------fifth--------------------------------------------------------->
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/陈卓杰.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Zhuojie Chen</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(陈卓杰)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+</tr>
+</tbody>
+</table>
+<br/>
+
+<!-------------------------------------------sixth--------------------------------------------------------->
+<summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
+
+
+<table width="70%" border="0">
+<tbody>
+<tr>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2016级硕士刘涛.jpg" alt="" height="136" align="left" /></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Tao Liu (刘涛)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2017级硕士陈一鑫.jpg" alt="" height="136" align="left" /></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Yixin Chen (陈一鑫)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2017-2020</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;NetEase AI Lab</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
+<br/>
+<p class="ex1"><g0><span><strong> &ensp; Huan Teng (滕寰)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2020</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Artificial Intelligence Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;HUAWEI TECHNOLOGIES</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+</tr>
+</tbody>
+</table>
